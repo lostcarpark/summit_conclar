@@ -1,22 +1,22 @@
 import React from "react";
 import {
-  FaTwitter,
   FaFacebook,
-  FaLinkedin,
-  FaInstagram,
-  FaTiktok,
-  FaTwitch,
-  FaYoutube,
   FaGlobe,
+  FaInstagram,
+  FaLinkedin,
+  FaMastodon,
+  FaTiktok,
+  FaTumblr,
+  FaTwitch,
+  FaTwitter,
+  FaYoutube,
 } from "react-icons/fa";
-import { FaDrupal } from "react-icons/fa6";
-import {
-  IoLink,
-} from "react-icons/io5";
-
+import { FaBluesky, FaDrupal, FaThreads } from "react-icons/fa6";
+import { IoLink } from "react-icons/io5";
 
 const PersonLinks = ({ person }) => {
-  const regex = /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
+  const regex =
+    /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
   /**
    * Take a link type and return an appropriate Icon.
    * @param {string} type
@@ -26,23 +26,35 @@ const PersonLinks = ({ person }) => {
     switch (type) {
       case "drupal":
         return <FaDrupal />;
-      case "twitter":
-        return <FaTwitter />;
+      case "bsky":
+      case "bluesky":
+        return <FaBluesky />;
       case "fb":
       case "facebook":
         return <FaFacebook />;
       case "instagram":
         return <FaInstagram />;
-      case "twitch":
-        return <FaTwitch />;
-      case "youtube":
-        return <FaYoutube />;
-      case "tiktok":
-        return <FaTiktok />;
       case "linkedin":
         return <FaLinkedin />;
+      case "mdon":
+      case "mast":
+      case "mastodon":
+        return <FaMastodon />;
+      case "tiktok":
+        return <FaTiktok />;
+      case "threads":
+        return <FaThreads />;
+      case "tumblr":
+        return <FaTumblr />;
+      case "twitch":
+        return <FaTwitch />;
+      case "twitter":
+        return <FaTwitter />;
       case "website":
         return <FaGlobe />;
+      case "youtube":
+      case "yt":
+        return <FaYoutube />;
       default:
         return <IoLink />;
     }
@@ -68,9 +80,8 @@ const PersonLinks = ({ person }) => {
       <span className="link" key={type}>
         <a href={person.links[type]} target="_blank" rel="noreferrer">
           {icon}
-        </a>
-        {" "}
-      </span>
+        </a>{" "}
+      </span>,
     );
   }
 
