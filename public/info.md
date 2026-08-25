@@ -1,48 +1,27 @@
-# About ConClár
+# DrupalCon Rotterdam 2026
 
-ConClár is a browser based convention programme guide.
+## Master the Future of the Web
 
-## About the information page.
+Whether you're looking to master new tools or forge partnerships with the ecosystem’s leading minds, DrupalCon Rotterdam 2026 offers a more focused and impactful experience. This year, we’re introducing a refreshed, streamlined format designed to maximize your time and investment.
 
-This is a sample information page. You should customise with an information page specific to your convention.
+- **Monday**: Specialized Summit Day for deep-dives (add-on ticket required)
+- **Tuesday & Wednesday**: High-energy keynotes and expert-led sessions.
+- **Thursday**: Community contribution and collaborative learning.
 
-The information page is composed in [Markdown](https://www.markdownguide.org/basic-syntax/). This is a common standard for formatting text that is easy to follow and safer than HTML. There is a handy [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+DrupalCon is the heartbeat of the ecosystem. It’s where the roadmap is built,
+the biggest innovations are debuted, and developers, marketers, and leaders
+connect to solve the web's toughest challenges.
 
-You may edit the provided file, `info.md`, or change the INFORMATION.MARKDOWN_URL setting in `config.json`.
 
-## Basic formatting
+## Note about programme data
 
-Supported formatting includes *emphasis* and **strong emphasis** as well as ***really strong emphasis***. ~~Strike through~~ is also possible.
+This programme schedule is fetched from the [official
+schedule](https://events.drupal.org/rotterdam2026/schedule). As this is a manual
+process, schedule changes may not be captured. Please use with caution!
 
-## Bulleted Lists
 
-### Benefits of Markdown
+## About ConClár
 
-* Easy to maintain
-* Easily readable
-* Fewer risks of dangerous scripts
+ConClár is an open source browser based convention programme guide. For more
+information, visit the [project page](https://github.com/lostcarpark/conclar).
 
-## Ordered Lists
-
-1. List
-1. of
-1. things.
-    1. Sublist
-    1. things.
-1. More things.
-
-## Tables
-
-Tables are supported:
-
-|Contact area    |Contact no|
-|----------------|----------|
-|Membership      | 555 1234 |
-|Access          | 555 5454 |
-|Dealers         | 555 6789 |
-|Code of Conduct | 555 5555 |
-
-## Task List
-
-* [ ] to do
-* [x] done
