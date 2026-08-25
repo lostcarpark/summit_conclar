@@ -376,6 +376,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-29T09:00:00+02:00",
@@ -446,7 +451,11 @@
       "loc": [
         "Rotterdam Room I&II"
       ],
-      "people": [],
+      "people": [
+        {
+          "id": "dries"
+        }
+      ],
       "desc": "",
       "links": {
         "web": "https://events.drupal.org/rotterdam2026/session/driesnote-auditorium"
@@ -527,12 +536,12 @@
         {
           "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -562,7 +571,7 @@
         {
           "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management & business"
+          "label": "Leadership, Management & Business"
         },
         {
           "value": "ai",
@@ -597,7 +606,7 @@
         {
           "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -665,7 +674,7 @@
         {
           "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "ai",
@@ -700,12 +709,12 @@
         {
           "value": "developer-relations-and-integration",
           "category": "Tag",
-          "label": "Developer relations & integration"
+          "label": "Developer Relations & Integration"
         },
         {
           "value": "modern-javascript",
           "category": "Tag",
-          "label": "Modern javascript"
+          "label": "Modern JavaScript"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -735,7 +744,7 @@
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         },
         {
           "value": "ai",
@@ -770,12 +779,12 @@
         {
           "value": "developer-relations-and-integration",
           "category": "Tag",
-          "label": "Developer relations & integration"
+          "label": "Developer Relations & Integration"
         },
         {
           "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -808,12 +817,12 @@
         {
           "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -892,7 +901,7 @@
         {
           "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         },
         {
           "value": "ai",
@@ -923,6 +932,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -941,14 +955,14 @@
       "title": "One Portal, 16 Markets: How Sharp Built a Pan-European Partner Ecosystem on Drupal",
       "tags": [
         {
-          "value": "success-stories-innovation",
+          "value": "success-stories-and-innovation",
           "category": "Track",
           "label": "Success Stories & Innovation"
         },
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         },
         {
           "value": "ai",
@@ -979,24 +993,24 @@
       "title": "When the roadmap is a battleground: building a shared Drupal platform for government",
       "tags": [
         {
-          "value": "success-stories-innovation",
+          "value": "success-stories-and-innovation",
           "category": "Track",
           "label": "Success Stories & Innovation"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
-          "label": "Drupal & open source 101"
+          "label": "Drupal & Open Source 101"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management, & business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -1022,7 +1036,7 @@
       "title": "Coffee Break 2, Tuesday",
       "tags": [
         {
-          "value": "coffee-lunch-break",
+          "value": "coffee-and-lunch-break",
           "category": "Track",
           "label": "Coffee & Lunch Break"
         }
@@ -1043,14 +1057,14 @@
       "title": "Agentic Debugging: Teaching AI to Step Through Your Code",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "ai",
@@ -1078,14 +1092,14 @@
       "title": "AI-Assisted Contrib Module Maintenance",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "devops",
@@ -1118,14 +1132,14 @@
       "title": "Beyond content staging: where Drupal Workspaces is heading",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "ai",
@@ -1153,19 +1167,19 @@
       "title": "Building Production-Ready AI Applications Using Curated Drupal Recipes",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management, & business"
+          "label": "Leadership, Management & Business"
         },
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         },
         {
           "value": "ai",
@@ -1198,9 +1212,9 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "modern-javascript",
@@ -1210,7 +1224,7 @@
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1236,6 +1250,16 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1254,19 +1278,19 @@
       "title": "From Vendor Lock-In to Digital Sovereignty: A Practical Roadmap for Governments & EU Institutions",
       "tags": [
         {
-          "value": "digital-sovereignty-open-web",
+          "value": "digital-sovereignty-and-open-web",
           "category": "Track",
           "label": "Digital Sovereignty & Open Web"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
-          "label": "Drupal & open source 101"
+          "label": "Drupal & Open Source 101"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management, & business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1292,14 +1316,14 @@
       "title": "Beyond the CMS: Drupal as the Backbone of an Open Health Platform",
       "tags": [
         {
-          "value": "digital-sovereignty-open-web",
+          "value": "digital-sovereignty-and-open-web",
           "category": "Track",
           "label": "Digital Sovereignty & Open Web"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management & business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1328,19 +1352,19 @@
       "title": "Help shape Drupal's story: A global marketing call to action",
       "tags": [
         {
-          "value": "agency-business-marketing",
+          "value": "agency-business-and-marketing",
           "category": "Track",
           "label": "Agency, Business & Marketing"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management, & business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1372,14 +1396,14 @@
       "title": "How Drupal drives Pinball Machines",
       "tags": [
         {
-          "value": "success-stories-innovation",
+          "value": "success-stories-and-innovation",
           "category": "Track",
           "label": "Success Stories & Innovation"
         },
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         },
         {
           "value": "ai",
@@ -1389,7 +1413,7 @@
         {
           "value": "other-cms-beyond-drupal",
           "category": "Tag",
-          "label": "Other CMS / beyond Drupal"
+          "label": "Other CMS / Beyond Drupal"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1417,9 +1441,9 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
-          "label": "Drupal & open source 101"
+          "label": "Drupal & Open Source 101"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1442,14 +1466,14 @@
       "title": "Your Dashboard Is Lying: Goodhart's Law and the Metrics Crisis in AI-Era Drupal Delivery",
       "tags": [
         {
-          "value": "agency-business-marketing",
+          "value": "agency-business-and-marketing",
           "category": "Track",
           "label": "Agency, Business & Marketing"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management & business"
+          "label": "Leadership, Management & Business"
         },
         {
           "value": "ai",
@@ -1482,19 +1506,19 @@
           "label": "Community Health"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, management, & business"
+          "label": "Leadership, Management & Business"
         },
         {
-          "value": "developer-relations-integration",
+          "value": "developer-relations-and-integration",
           "category": "Tag",
-          "label": "Developer relations & integration"
+          "label": "Developer Relations & Integration"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1517,14 +1541,14 @@
       "title": "Can AI Fix the Web? The Promises and Perils of \"Automated\" Accessibility",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "ai",
@@ -1557,14 +1581,14 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         },
         {
           "value": "drupal-showcase",
           "category": "Tag",
-          "label": "Drupal showcase"
+          "label": "Drupal Showcase"
         },
         {
           "value": "ai",
@@ -1597,19 +1621,19 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "developer-relations-integration",
+          "value": "developer-relations-and-integration",
           "category": "Tag",
-          "label": "Developer relations & integration"
+          "label": "Developer Relations & Integration"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
-          "label": "Content & marketing"
+          "label": "Content & Marketing"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1632,14 +1656,14 @@
       "title": "Gander in the Wild: How We Built a Performance Safety Net into Our CI/CD Pipeline",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1662,14 +1686,14 @@
       "title": "Take Back Your Autonomy",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
-          "label": "Development & coding"
+          "label": "Development & Coding"
         },
         {
           "value": "ai",
@@ -1742,6 +1766,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-30T08:00:00+02:00",
@@ -1806,7 +1835,7 @@
       "title": "Coffee Break 1, Wednesday",
       "tags": [
         {
-          "value": "coffee-lunch-break",
+          "value": "coffee-and-lunch-break",
           "category": "Track",
           "label": "Coffee & Lunch Break"
         }
@@ -1972,7 +2001,7 @@
         {
           "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, Management, & Business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2001,6 +2030,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2167,7 +2201,7 @@
           "label": "Drupal Showcase"
         },
         {
-          "value": "other-cms---beyond-drupal",
+          "value": "other-cms-beyond-drupal",
           "category": "Tag",
           "label": "Other CMS / Beyond Drupal"
         }
@@ -2449,9 +2483,9 @@
           "label": "Agency, Business & Marketing"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, Management, Business"
+          "label": "Leadership, Management & Business"
         }
       ],
       "datetime": "2026-09-30T13:40:00+02:00",
@@ -2643,7 +2677,7 @@
           "label": "AI"
         },
         {
-          "value": "other-cms---beyond-drupal",
+          "value": "other-cms-beyond-drupal",
           "category": "Tag",
           "label": "Other CMS / Beyond Drupal"
         }
@@ -2680,7 +2714,7 @@
         {
           "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, Management, & Business"
+          "label": "Leadership, Management & Business"
         },
         {
           "value": "drupal-showcase",
@@ -2720,7 +2754,7 @@
         {
           "value": "leadership-management-and-business",
           "category": "Tag",
-          "label": "Leadership, Management, & Business"
+          "label": "Leadership, Management & Business"
         },
         {
           "value": "drupal-showcase",
@@ -2854,7 +2888,7 @@
           "label": "Community Health"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
         },
@@ -2892,7 +2926,7 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
@@ -2930,6 +2964,16 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -2948,17 +2992,17 @@
       "title": "Scolta: Drop-in AI Search Without a Search Server",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
           "label": "Drupal & Open Source 101"
         },
@@ -2988,12 +3032,12 @@
       "title": "SDCs, Canvas, and the Agent That Builds With Them",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
@@ -3023,12 +3067,12 @@
       "title": "Super charging SDC design systems with Web Components",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
@@ -3058,12 +3102,12 @@
       "title": "AI Assists, Humans Decide: Agentic Workflows in Drupal - A Drupal AI Hackathon Story",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         },
@@ -3101,12 +3145,12 @@
       "title": "AI-Powered Site Building in Drupal: From Blank Site to Styled Pages in a Conversation",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
@@ -3144,7 +3188,7 @@
           "label": "Drupal CMS"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         }
@@ -3169,12 +3213,12 @@
       "title": "From Drupal Content to AI Answers: Learnings from EPSY",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
           "label": "Drupal & Open Source 101"
         },
@@ -3204,17 +3248,17 @@
       "title": "From SEO to GEO: What Changes, What Doesn't",
       "tags": [
         {
-          "value": "agency-business-marketing",
+          "value": "agency-business-and-marketing",
           "category": "Track",
           "label": "Agency, Business & Marketing"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         },
@@ -3244,17 +3288,17 @@
       "title": "Getting the most out of Editoria11y v3",
       "tags": [
         {
-          "value": "ux-accessibility-design",
+          "value": "user-experience-accessibility-and-design",
           "category": "Track",
           "label": "User Experience, Accessibility & Design"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         }
@@ -3282,6 +3326,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3300,12 +3349,12 @@
       "title": "Reinventing the Editorial Experience: How Mars Innovated with Drupal Canvas at Enterprise Scale",
       "tags": [
         {
-          "value": "success-stories-innovation",
+          "value": "success-stories-and-innovation",
           "category": "Track",
           "label": "Success Stories & Innovation"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         }
@@ -3333,17 +3382,17 @@
       "title": "From local voices to global impact: Powering World Cancer Day with Drupal and AI",
       "tags": [
         {
-          "value": "success-stories-innovation",
+          "value": "success-stories-and-innovation",
           "category": "Track",
           "label": "Success Stories & Innovation"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         },
         {
-          "value": "leadership-management-business",
+          "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
         },
@@ -3376,12 +3425,12 @@
       "title": "How Marketers Win in an AI-First Search World (AEO & GEO Playbook)",
       "tags": [
         {
-          "value": "agency-business-marketing",
+          "value": "agency-business-and-marketing",
           "category": "Track",
           "label": "Agency, Business & Marketing"
         },
         {
-          "value": "content-marketing",
+          "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
         },
@@ -3414,12 +3463,12 @@
       "title": "How we made the biggest performance gains in a decade in Drupal core",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         }
@@ -3444,17 +3493,17 @@
       "title": "Modern Video in Drupal: AV1, Responsive Sources, CDN Providers, and a Better Contrib Architecture",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
         {
-          "value": "developer-relations-integration",
+          "value": "developer-relations-and-integration",
           "category": "Tag",
           "label": "Developer Relations & Integration"
         },
         {
-          "value": "development-coding",
+          "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
         },
@@ -3484,7 +3533,7 @@
       "title": "Okay, Houston, we've had a problem here — Wiring Drupal into a Full-Scale Agentic Operations Platform",
       "tags": [
         {
-          "value": "development-ai-agentic-architecture",
+          "value": "development-ai-and-agentic-architecture",
           "category": "Track",
           "label": "Development, AI & Agentic Architecture"
         },
@@ -3529,7 +3578,7 @@
           "label": "DevOps"
         },
         {
-          "value": "drupal-open-source-101",
+          "value": "drupal-and-open-source-101",
           "category": "Tag",
           "label": "Drupal & Open Source 101"
         }
@@ -3626,6 +3675,16 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-10-01T09:00:00+02:00",
@@ -3647,6 +3706,11 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-10-01T09:00:00+02:00",
@@ -3668,6 +3732,16 @@
           "value": "contribution-topic",
           "category": "Track",
           "label": "Contribution Topic"
+        },
+        {
+          "value": "mentoring",
+          "category": "Track",
+          "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-10-01T09:00:00+02:00",
@@ -3686,7 +3760,7 @@
       "title": "Coffee Break 1, Thursday",
       "tags": [
         {
-          "value": "coffee-lunch-break",
+          "value": "coffee-and-lunch-break",
           "category": "Track",
           "label": "Coffee & Lunch Break"
         }
@@ -3707,7 +3781,7 @@
       "title": "Lunch Break, Thursday",
       "tags": [
         {
-          "value": "coffee-lunch-break",
+          "value": "coffee-and-lunch-break",
           "category": "Track",
           "label": "Coffee & Lunch Break"
         }
@@ -3728,7 +3802,7 @@
       "title": "Coffee Break 2, Thursday",
       "tags": [
         {
-          "value": "coffee-lunch-break",
+          "value": "coffee-and-lunch-break",
           "category": "Track",
           "label": "Coffee & Lunch Break"
         }
@@ -4112,6 +4186,7 @@
       "sortname": "Buytaert, Dries",
       "tags": [],
       "prog": [
+        "driesnote-auditorium",
         "enterprise-drupal-ai-summit"
       ],
       "links": {

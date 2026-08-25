@@ -8,13 +8,13 @@
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://dcrotterdam.lostcarpark.com/"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "http://example.com"
+      "Origin": "https://dcrotterdam.lostcarpark.com/"
     }
   },
   "TIMEZONE": "Europe/Amsterdam",
@@ -129,11 +129,10 @@
     "DAY_TAG": {
       "GENERATE": true,
       "DAYS": {
-        "4": "Thursday",
-        "5": "Friday",
-        "6": "Saturday",
-        "7": "Sunday",
-        "1": "Monday"
+        "1": "Monday",
+        "2": "Tuesday",
+        "3": "Wednesday",
+        "4": "Thursday"
       },
       "PLACEHOLDER": "Select days",
       "SEARCHABLE": false,
