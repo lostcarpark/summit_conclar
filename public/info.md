@@ -22,6 +22,7 @@ process, schedule changes may not be captured. Please use with caution!
 
 ## About ConClár
 
-ConClár is an open source browser based convention programme guide. For more
+ConClár is an open source browser based convention programme guide created by
+[James Shields](https://drupal.org/u/lostcarpark). For more
 information, visit the [project page](https://github.com/lostcarpark/conclar).
 

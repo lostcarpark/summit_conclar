@@ -308,7 +308,7 @@
   },
   "FOOTER": {
     "SITE_NOTE_MARKDOWN": "Please be aware this schedule may not include latest changes.",
-    "COPYRIGHT_MARKDOWN": "",
+    "COPYRIGHT_MARKDOWN": "Created by [James Shields](https://drupal.org/u/lostcarpark)",
     "CONCLAR_NOTE_MARKDOWN": "Guide powered by [ConClár](https://github.com/lostcarpark/conclar)"
   },
   "TIMER": {
