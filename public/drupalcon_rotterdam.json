@@ -768,6 +768,31 @@
       }
     },
     {
+      "id": "getting-most-out-gitlab-issue-queues",
+      "title": "Getting the most out of GitLab Issue Queues",
+      "tags": [
+        {
+          "value": "bof",
+          "category": "Track",
+          "label": "BoF"
+        }
+      ],
+      "datetime": "2026-09-29T13:30:00+02:00",
+      "mins": "45",
+      "loc": [
+        "Blue Room"
+      ],
+      "people": [
+        {
+          "id": "lostcarpark"
+        }
+      ],
+      "desc": "<p>If you work with Drupal issue queues, you may have noticed a recent change.</p><p>We've been using GitLab for merge requests since 2021, but now issue queues are migrating to GitLab.</p><p>Hundreds of projects have already moved over to the new GitLab issue queues, with all 50,000+ projects on Drupal.org set to follow over the coming months (years?).</p><p>It should result in a more integrated experience, but it will also bring new ways of working, and new challenges.</p><p>Join us and review some best practices being adopted by the community, and look at some tips to help ease the changeover.</p><p>This is intended to be an open discussion, and everyone is welcome to share their favourite GitLab tips.</p>",
+      "links": {
+        "web": "https://events.drupal.org/rotterdam2026/session/getting-most-out-gitlab-issue-queues"
+      }
+    },
+    {
       "id": "context-control-center-bringing-ai-context-natively-drupal-cms",
       "title": "Context Control Center: Bringing AI Context Natively to Drupal CMS",
       "tags": [
@@ -1033,7 +1058,7 @@
     },
     {
       "id": "coffe-break-2-tuesday",
-      "title": "Coffee Break 2, Tuesday",
+      "title": "Coffe Break 2, Tuesday",
       "tags": [
         {
           "value": "coffee-and-lunch-break",
@@ -1349,7 +1374,7 @@
     },
     {
       "id": "help-shape-drupals-story-global-marketing-call-action",
-      "title": "Help shape Drupal's story: A global marketing call to action",
+      "title": "Help shape Drupal’s story: A global marketing call to action",
       "tags": [
         {
           "value": "agency-business-and-marketing",
@@ -1853,7 +1878,7 @@
     },
     {
       "id": "iamremarkable-workshop",
-      "title": "#IAmRemarkable Workshop",
+      "title": "#IAmRemarkable  Workshop",
       "tags": [
         {
           "value": "other",
@@ -2280,7 +2305,7 @@
     },
     {
       "id": "inside-pyramid-path-faster-clearer-drupal-testing",
-      "title": "Inside the Pyramid: A Path to Faster, Clearer Drupal Testing",
+      "title": "Inside the Pyramid - A path to faster, clearer Drupal testing",
       "tags": [
         {
           "value": "development-ai-and-agentic-architecture",
@@ -2475,7 +2500,7 @@
     },
     {
       "id": "client-experience-everyones-responsibility",
-      "title": "Client Experience is Everyone's Responsibility",
+      "title": "Client Experience is Everyone’s Responsibility",
       "tags": [
         {
           "value": "agency-business-and-marketing",
@@ -2695,6 +2720,31 @@
       "desc": "<p>As AI adoption accelerates and SaaS platforms dominate the digital landscape, organisations—especially in the public sector—face a critical question: who controls their digital future? This interactive workshop explores digital sovereignty in the context of Drupal, AI, and sustainable web governance, drawing on real-world experience from the University of Edinburgh's EdWeb2 platform and the Edinburgh Language Model (ELM).</p><p>Digital platforms function as strategic assets, yet many organisations depend increasingly on external SaaS providers and opaque AI systems. This workshop will:</p><ul><li>Introduce digital sovereignty concepts in a Drupal context</li><li>Explore risks and trade-offs of AI adoption, including data privacy, vendor lock-in, and governance</li><li>Examine how platform strategy can reduce duplication and improve sustainability</li><li>Discuss environmental and organisational dimensions of sustainable digital ecosystems</li></ul><p><strong>Interactive Activities:</strong> Participants work in small groups on scenario exercises, sovereignty mapping, and architecture sketching, then share insights and reflect on trade-offs.</p><p><strong>Experience Level:</strong> Anyone</p>",
       "links": {
         "web": "https://events.drupal.org/rotterdam2026/session/skin-game-digital-sovereignty-ai-and-sustainability-drupal"
+      }
+    },
+    {
+      "id": "how-can-we-improve-drupals-visibility-chatgpt-gemini-and-claude",
+      "title": "How can we improve Drupal's visibility in ChatGPT, Gemini, and Claude?",
+      "tags": [
+        {
+          "value": "bof",
+          "category": "Track",
+          "label": "BoF"
+        }
+      ],
+      "datetime": "2026-09-30T13:40:00+02:00",
+      "mins": "45",
+      "loc": [
+        "J.F. Staal Room"
+      ],
+      "people": [
+        {
+          "id": "luzie"
+        }
+      ],
+      "desc": "<p>More and more people are using AI systems, esp. LLMs, to learn about technologies, compare options, and decide what to use. So how Drupal shows up in those answers matters.</p><p>This BoF is about a simple question: what can each of us do to help AI systems understand and represent Drupal better?</p><p>We will talk about things the Drupal community already creates every day, such as documentation, blog posts, case studies, discussions, and answers to common questions, and how these may influence what artificial intelligence tools know about Drupal.</p><p>Some of the questions we will discuss:</p><ul><li>Where does Drupal show up well today, and where could it be better?</li><li>What kind of content helps AI systems understand what Drupal is, what it is good at, and where it fits?</li><li>What can individual community members do through the work they are already doing?</li><li>Which gaps in Drupal content are worth filling?</li><li>Are there things we could do together as a community to improve how Drupal is represented?</li></ul><p>You don't need any experience with AI search to join. We want to hear different perspectives, whether you work with Drupal every day, contribute occasionally, or are simply curious about the topic. This is an open community discussion, and every point of view is welcome.</p>",
+      "links": {
+        "web": "https://events.drupal.org/rotterdam2026/session/how-can-we-improve-drupals-visibility-chatgpt-gemini-and-claude"
       }
     },
     {
@@ -2918,7 +2968,7 @@
     },
     {
       "id": "drupal-canvas-code-components-modern-javascript-agentic-engineering-and-road",
-      "title": "Drupal Canvas Code Components: Modern JavaScript, Agentic Engineering, and the Road Ahead",
+      "title": "Drupal Canvas Code Components: Modern JavaScript, agentic engineering, and the road ahead",
       "tags": [
         {
           "value": "drupal-cms",
@@ -3245,7 +3295,7 @@
     },
     {
       "id": "seo-geo-what-changes-what-doesnt",
-      "title": "From SEO to GEO: What Changes, What Doesn't",
+      "title": "From SEO to GEO: What Changes, What Doesn’t",
       "tags": [
         {
           "value": "agency-business-and-marketing",
@@ -3422,7 +3472,7 @@
     },
     {
       "id": "how-marketers-win-ai-first-search-world-aeo-geo-playbook",
-      "title": "How Marketers Win in an AI-First Search World (AEO & GEO Playbook)",
+      "title": "How Marketers Win in an AI‑First Search World (AEO & GEO Playbook)",
       "tags": [
         {
           "value": "agency-business-and-marketing",
@@ -5625,6 +5675,24 @@
       "bio": "<p>Known as \"Schnitzel\". Group CTO and Board member of Amazee, founder and Head of Technology at amazee.io. Familiar at DrupalCon as the long-haired guy directing the official group photo.</p>"
     },
     {
+      "id": "lostcarpark",
+      "name": [
+        "James Shields"
+      ],
+      "sortname": "Shields, James",
+      "tags": [],
+      "prog": [
+        "getting-most-out-gitlab-issue-queues"
+      ],
+      "links": {
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
+        "website": "https://lostcarpark.com",
+        "url": "https://www.drupal.org/u/lostcarpark"
+      },
+      "bio": "<p>I have been using Drupal for many years, but only became really active in the community in the 2020s. Since then I have become actively involved in a number of projects, and have joined the Drupal mentoring team. I am a keen advocate of community contribution, and gave a talk on fostering contribution at DrupalCon Vienna 2025. I also organise the Drupal Advent Calendar every December.</p>"
+    },
+    {
       "id": "Ajits",
       "name": [
         "Ajit Shinde"
@@ -5773,6 +5841,21 @@
         "how-marketers-win-ai-first-search-world-aeo-geo-playbook"
       ],
       "links": {},
+      "bio": ""
+    },
+    {
+      "id": "luzie",
+      "name": [
+        "Larissa Tropp"
+      ],
+      "sortname": "Tropp, Larissa",
+      "tags": [],
+      "prog": [
+        "how-can-we-improve-drupals-visibility-chatgpt-gemini-and-claude"
+      ],
+      "links": {
+        "url": "https://www.drupal.org/u/luzie"
+      },
       "bio": ""
     },
     {

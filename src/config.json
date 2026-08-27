@@ -128,10 +128,6 @@
     "WEIGHTS": [
       { "VALUE": "sessioon_requires_signup", "WEIGHT": -1 }
     ],
-    "ICONS": {
-      "session_Children's Program": { "ICON_NAME": "fa6/FaChildren" },
-      "session_replay": { "ICON_NAME": "pi/PiRecordFill" }
-    },
     "FORMAT_AS_TAG": true,
     "DAY_TAG": {
       "GENERATE": true,

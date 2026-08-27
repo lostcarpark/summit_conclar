@@ -16,6 +16,9 @@ yarn.lock
 # production
 /build
 
+# timestamped backups written by scripts/sync_drupalcon_schedule.php
+public/drupalcon_rotterdam.[0-9]*.json
+
 # misc
 .DS_Store
 .env.local
