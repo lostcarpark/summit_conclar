@@ -251,9 +251,9 @@ export class ProgramData {
       // If tag has explicit weight, use that.
       if (tag.hasOwnProperty("weight"))
         return tag.weight;
-      else if (configData.TAGS.hasOwnProperty("WEIGHTS")) {
+      else if (tagConfig.hasOwnProperty("WEIGHTS")) {
         // If WEIGHTS section exists, search for the tag value.
-        const weight = configData.TAGS.WEIGHTS.find((item) => item.VALUE === lookupValue);
+        const weight = tagConfig.WEIGHTS.find((item) => item.VALUE === lookupValue);
         if (weight && weight.hasOwnProperty("WEIGHT"))
           return weight.WEIGHT;
       }
