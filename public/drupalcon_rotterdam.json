@@ -13,6 +13,11 @@
           "value": "summit",
           "category": "Track",
           "label": "Summit"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-28T09:00:00+02:00",
@@ -68,6 +73,21 @@
           "value": "summit",
           "category": "Track",
           "label": "Summit"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-28T09:00:00+02:00",
@@ -135,6 +155,11 @@
           "value": "summit",
           "category": "Track",
           "label": "Summit"
+        },
+        {
+          "value": "drupal-localgov",
+          "category": "Tag",
+          "label": "Drupal LocalGov"
         }
       ],
       "datetime": "2026-09-28T09:00:00+02:00",
@@ -184,6 +209,11 @@
           "value": "summit",
           "category": "Track",
           "label": "Summit"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
         }
       ],
       "datetime": "2026-09-28T09:00:00+02:00",
@@ -417,7 +447,7 @@
     },
     {
       "id": "coffe-break-1-tuesday",
-      "title": "Coffe Break 1, Tuesday",
+      "title": "Coffee Break 1, Tuesday",
       "tags": [
         {
           "value": "coffee-and-lunch-break",
@@ -542,6 +572,11 @@
           "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -577,6 +612,11 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -607,6 +647,11 @@
           "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
+        },
+        {
+          "value": "modern-javascript",
+          "category": "Tag",
+          "label": "Modern JavaScript"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -680,6 +725,16 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -715,6 +770,16 @@
           "value": "modern-javascript",
           "category": "Tag",
           "label": "Modern JavaScript"
+        },
+        {
+          "value": "development-and-coding",
+          "category": "Tag",
+          "label": "Development & Coding"
+        },
+        {
+          "value": "sdc",
+          "category": "Tag",
+          "label": "SDC"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -750,6 +815,16 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "eca",
+          "category": "Tag",
+          "label": "ECA"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -775,6 +850,11 @@
           "value": "bof",
           "category": "Track",
           "label": "BoF"
+        },
+        {
+          "value": "gitlab",
+          "category": "Tag",
+          "label": "GitLab"
         }
       ],
       "datetime": "2026-09-29T13:30:00+02:00",
@@ -810,6 +890,16 @@
           "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -848,6 +938,21 @@
           "value": "drupal-showcase",
           "category": "Tag",
           "label": "Drupal Showcase"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
+        },
+        {
+          "value": "mcp",
+          "category": "Tag",
+          "label": "MCP"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -932,6 +1037,11 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -962,6 +1072,11 @@
           "value": "mentoring",
           "category": "Track",
           "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -993,6 +1108,11 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -1036,6 +1156,21 @@
           "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
+        },
+        {
+          "value": "installation-profiles",
+          "category": "Tag",
+          "label": "Installation profiles"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "recipes",
+          "category": "Tag",
+          "label": "Recipes"
         }
       ],
       "datetime": "2026-09-29T14:25:00+02:00",
@@ -1058,7 +1193,7 @@
     },
     {
       "id": "coffe-break-2-tuesday",
-      "title": "Coffe Break 2, Tuesday",
+      "title": "Coffee Break 2, Tuesday",
       "tags": [
         {
           "value": "coffee-and-lunch-break",
@@ -1095,6 +1230,16 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "mcp",
+          "category": "Tag",
+          "label": "MCP"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1135,6 +1280,11 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1210,6 +1360,41 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "ddev",
+          "category": "Tag",
+          "label": "DDEV"
+        },
+        {
+          "value": "composer",
+          "category": "Tag",
+          "label": "Composer"
+        },
+        {
+          "value": "installation-profiles",
+          "category": "Tag",
+          "label": "Installation profiles"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "mcp",
+          "category": "Tag",
+          "label": "MCP"
+        },
+        {
+          "value": "recipes",
+          "category": "Tag",
+          "label": "Recipes"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1250,6 +1435,11 @@
           "value": "drupal-showcase",
           "category": "Tag",
           "label": "Drupal Showcase"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1316,6 +1506,11 @@
           "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-29T15:45:00+02:00",
@@ -1349,6 +1544,16 @@
           "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
+        },
+        {
+          "value": "other-cms-beyond-drupal",
+          "category": "Tag",
+          "label": "Other CMS / Beyond Drupal"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1390,6 +1595,16 @@
           "value": "leadership-management-and-business",
           "category": "Tag",
           "label": "Leadership, Management & Business"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1469,6 +1684,31 @@
           "value": "drupal-and-open-source-101",
           "category": "Tag",
           "label": "Drupal & Open Source 101"
+        },
+        {
+          "value": "installation-profiles",
+          "category": "Tag",
+          "label": "Installation profiles"
+        },
+        {
+          "value": "development-and-coding",
+          "category": "Tag",
+          "label": "Development & Coding"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "recipes",
+          "category": "Tag",
+          "label": "Recipes"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-29T16:40:00+02:00",
@@ -1544,6 +1784,11 @@
           "value": "developer-relations-and-integration",
           "category": "Tag",
           "label": "Developer Relations & Integration"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1579,6 +1824,16 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1619,6 +1874,21 @@
           "value": "ai",
           "category": "Tag",
           "label": "AI"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "eca",
+          "category": "Tag",
+          "label": "ECA"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1659,6 +1929,21 @@
           "value": "content-and-marketing",
           "category": "Tag",
           "label": "Content & Marketing"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1689,6 +1974,26 @@
           "value": "development-and-coding",
           "category": "Tag",
           "label": "Development & Coding"
+        },
+        {
+          "value": "devops",
+          "category": "Tag",
+          "label": "DevOps"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
+        },
+        {
+          "value": "performance",
+          "category": "Tag",
+          "label": "Performance"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-29T17:35:00+02:00",
@@ -1924,6 +2229,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "sdc",
+          "category": "Tag",
+          "label": "SDC"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -1964,6 +2279,26 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "development-and-coding",
+          "category": "Tag",
+          "label": "Development & Coding"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2007,6 +2342,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2080,6 +2425,11 @@
           "value": "mentoring",
           "category": "Track",
           "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2116,6 +2466,11 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2149,6 +2504,11 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2189,6 +2549,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-30T10:45:00+02:00",
@@ -2274,6 +2644,21 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
+        },
+        {
+          "value": "eca",
+          "category": "Tag",
+          "label": "ECA"
         }
       ],
       "datetime": "2026-09-30T11:40:00+02:00",
@@ -2312,6 +2697,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
         }
       ],
       "datetime": "2026-09-30T11:40:00+02:00",
@@ -2371,6 +2766,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "devops",
+          "category": "Tag",
+          "label": "DevOps"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-30T11:40:00+02:00",
@@ -2416,6 +2821,21 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "other-cms-beyond-drupal",
+          "category": "Tag",
+          "label": "Other CMS / Beyond Drupal"
+        },
+        {
+          "value": "development-and-coding",
+          "category": "Tag",
+          "label": "Development & Coding"
+        },
+        {
+          "value": "eca",
+          "category": "Tag",
+          "label": "ECA"
         }
       ],
       "datetime": "2026-09-30T11:40:00+02:00",
@@ -2461,6 +2881,11 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
         }
       ],
       "datetime": "2026-09-30T11:40:00+02:00",
@@ -2634,6 +3059,26 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "installation-profiles",
+          "category": "Tag",
+          "label": "Installation profiles"
+        },
+        {
+          "value": "recipes",
+          "category": "Tag",
+          "label": "Recipes"
         }
       ],
       "datetime": "2026-09-30T13:40:00+02:00",
@@ -2757,6 +3202,21 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "sdc",
+          "category": "Tag",
+          "label": "SDC"
         }
       ],
       "datetime": "2026-09-30T13:40:00+02:00",
@@ -2830,6 +3290,11 @@
           "value": "bof",
           "category": "Track",
           "label": "BoF"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-30T13:40:00+02:00",
@@ -2875,6 +3340,11 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "performance",
+          "category": "Tag",
+          "label": "Performance"
         }
       ],
       "datetime": "2026-09-30T14:05:00+02:00",
@@ -2965,6 +3435,11 @@
           "value": "beginner",
           "category": "Experience level",
           "label": "Beginner"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-30T14:05:00+02:00",
@@ -3031,6 +3506,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "migration",
+          "category": "Tag",
+          "label": "Migration"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -3071,6 +3556,11 @@
           "value": "beginner",
           "category": "Experience level",
           "label": "Beginner"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -3119,6 +3609,21 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -3235,6 +3740,26 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "sdc",
+          "category": "Tag",
+          "label": "SDC"
+        },
+        {
+          "value": "mcp",
+          "category": "Tag",
+          "label": "MCP"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -3275,6 +3800,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
+        },
+        {
+          "value": "sdc",
+          "category": "Tag",
+          "label": "SDC"
         }
       ],
       "datetime": "2026-09-30T15:00:00+02:00",
@@ -3320,6 +3855,16 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-ai",
+          "category": "Tag",
+          "label": "Drupal AI"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3401,6 +3946,21 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "drupal-showcase",
+          "category": "Tag",
+          "label": "Drupal Showcase"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
+        },
+        {
+          "value": "performance",
+          "category": "Tag",
+          "label": "Performance"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3526,6 +4086,26 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "accessibility",
+          "category": "Tag",
+          "label": "Accessibility"
+        },
+        {
+          "value": "drupal-cms-topic",
+          "category": "Tag",
+          "label": "Drupal CMS"
+        },
+        {
+          "value": "performance",
+          "category": "Tag",
+          "label": "Performance"
+        },
+        {
+          "value": "recipes",
+          "category": "Tag",
+          "label": "Recipes"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3556,6 +4136,11 @@
           "value": "mentoring",
           "category": "Track",
           "label": "Mentoring"
+        },
+        {
+          "value": "contribution",
+          "category": "Tag",
+          "label": "Contribution"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3587,6 +4172,11 @@
           "value": "beginner",
           "category": "Experience level",
           "label": "Beginner"
+        },
+        {
+          "value": "drupal-canvas",
+          "category": "Tag",
+          "label": "Drupal Canvas"
         }
       ],
       "datetime": "2026-09-30T16:00:00+02:00",
@@ -3635,6 +4225,11 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "ai",
+          "category": "Tag",
+          "label": "AI"
         }
       ],
       "datetime": "2026-09-30T17:00:00+02:00",
@@ -3716,6 +4311,21 @@
           "value": "advanced",
           "category": "Experience level",
           "label": "Advanced"
+        },
+        {
+          "value": "devops",
+          "category": "Tag",
+          "label": "DevOps"
+        },
+        {
+          "value": "performance",
+          "category": "Tag",
+          "label": "Performance"
+        },
+        {
+          "value": "testing",
+          "category": "Tag",
+          "label": "Testing"
         }
       ],
       "datetime": "2026-09-30T17:00:00+02:00",
@@ -3801,6 +4411,16 @@
           "value": "anyone",
           "category": "Experience level",
           "label": "Anyone"
+        },
+        {
+          "value": "agentic",
+          "category": "Tag",
+          "label": "Agentic"
+        },
+        {
+          "value": "mcp",
+          "category": "Tag",
+          "label": "MCP"
         }
       ],
       "datetime": "2026-09-30T17:00:00+02:00",
@@ -3841,6 +4461,11 @@
           "value": "intermediate",
           "category": "Experience level",
           "label": "Intermediate"
+        },
+        {
+          "value": "composer",
+          "category": "Tag",
+          "label": "Composer"
         }
       ],
       "datetime": "2026-09-30T17:00:00+02:00",
@@ -4097,7 +4722,7 @@
         "website": "http://www.freelygive.org.uk",
         "linkedin": "https://www.linkedin.com/in/james-abrahams-62ab0418/",
         "twitter": "https://twitter.com/yautja_cetanu",
-        "url": "https://www.drupal.org/u/yautja_cetanu"
+        "drupal": "https://www.drupal.org/u/yautja_cetanu"
       },
       "bio": "<p>Jamie is a co-founder of FreelyGive and has become \"obsessed with AI!\" The company specialises in native Drupal CRM solutions while collaborating with charities and the rail industry. Through automation work on a claims management system, Jamie's focus shifted to AI technologies.</p><p>FreelyGive developed the AI module as an abstraction layer for building AI applications with interchangeable models, including self-hosted options. Jamie co-leads the Drupal CMS AI agent initiative, believing that \"Drupal AI is the best place to orchestrate AI Agents and build AI applications in a transparent manner.\"</p><p>With a physics and philosophy degree, Jamie \"massively prefer[s] philosophy to the physics.\" His background includes church community management work and an extensive focus on GDPR and data privacy. He describes himself as an \"avid gamer\" passionate about gaming communities.</p>"
     },
@@ -4130,7 +4755,7 @@
         "website": "http://www.garethalexander.co.uk",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-492012-1736174729.png?itok=h13_uhry",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-492012-1736174729.png?itok=h13_uhry",
-        "url": "https://www.drupal.org/u/the_g_bomb"
+        "drupal": "https://www.drupal.org/u/the_g_bomb"
       },
       "bio": "<p>Acquia certified Drupal developer, Senior Web Developer at the University of Edinburgh. Active in the Drupal community for over 17 years.</p>"
     },
@@ -4162,7 +4787,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3304409-1693939707.png?itok=vtlVPBsa",
         "website": "https://www.e-sepia.gr/en",
         "linkedin": "https://www.linkedin.com/in/georgios-andreadis-3a834698/",
-        "url": "https://www.drupal.org/u/Esepia"
+        "drupal": "https://www.drupal.org/u/Esepia"
       },
       "bio": "<p>I was born in Athens, but my roots are from the beautiful island of Thassos in Northern Greece. Since 2010, I've been running E-Sepia Web Innovation.</p><p>My academic background is in Greek Philology and Papyrology, but innovation and technology won me over. Together with my colleagues, we proudly run E-Sepia, an innovative Drupal agency based in Athens, Greece.</p><p>Our company motto derives from Roman times: \"Aut viam inveniam aut viam faciam &mdash; If you cannot find a way, you can build one.\" This has been our guiding inspiration throughout the years of growth and creativity.</p>"
     },
@@ -4181,7 +4806,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-409-1615883780.jpg?itok=25E7Av60",
         "linkedin": "https://www.linkedin.com/in/jeremyandrews",
         "website": "https://tag1.com/",
-        "url": "https://www.drupal.org/u/Jeremy"
+        "drupal": "https://www.drupal.org/u/Jeremy"
       },
       "bio": "<p>Jeremy founded Tag1 Consulting in 2007 and has been a core Drupal developer since 2002. He established Drupal's early popularity through his personal blog, KernelTrap.org. His contributions include authoring the core statistics and throttle modules, pager logic, and the initial Drupal 5 installer. He continues optimizing Drupal's caching layer and bootstrap process, and maintains numerous modules including spam, support, ad, and dba modules.</p>"
     },
@@ -4201,7 +4826,7 @@
         "website": "http://www.DrupalEasy.com/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-51132-1400198420.jpg?itok=JCgKnvaw",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-51132-1400198420.jpg?itok=JCgKnvaw",
-        "url": "https://www.drupal.org/u/ultimike"
+        "drupal": "https://www.drupal.org/u/ultimike"
       },
       "bio": "<p>Co-founder of Central Florida-based DrupalEasy, a Drupal training, career education and consulting shop. Drupal developer, trainer and consultant for over 16 years.</p>"
     },
@@ -4219,7 +4844,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3294687-1662615986.jpg?itok=QptGLsXz",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3294687-1662615986.jpg?itok=QptGLsXz",
         "linkedin": "https://www.linkedin.com/in/danielangelov91/",
-        "url": "https://www.drupal.org/u/danielangelov"
+        "drupal": "https://www.drupal.org/u/danielangelov"
       },
       "bio": ""
     },
@@ -4236,7 +4861,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-2253676-1440613644.png?itok=39drj44x",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-2253676-1440613644.png?itok=39drj44x",
-        "url": "https://www.drupal.org/u/ckaotik"
+        "drupal": "https://www.drupal.org/u/ckaotik"
       },
       "bio": ""
     },
@@ -4279,7 +4904,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3515125-1768209664.jpg?itok=og6rPnTP",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3515125-1768209664.jpg?itok=og6rPnTP",
-        "url": "https://www.drupal.org/u/nikitaaswani"
+        "drupal": "https://www.drupal.org/u/nikitaaswani"
       },
       "bio": "<p>An Acquia Triple Certified Drupal Expert with over 9 years of experience building and scaling Drupal platforms. With a strong focus on accessibility and frontend architecture, has helped multiple organizations create accessible, responsive, and design-system-driven digital experiences.</p>"
     },
@@ -4297,7 +4922,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1431110-1718842190.png?itok=5KFUL3gf",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1431110-1718842190.png?itok=5KFUL3gf",
         "linkedin": "http://www.linkedin.com/pub/pamela-barone/b/a99/812",
-        "url": "https://www.drupal.org/u/Pameeela"
+        "drupal": "https://www.drupal.org/u/Pameeela"
       },
       "bio": ""
     },
@@ -4331,7 +4956,7 @@
         "linkedin": "https://linkedin.com/in/bircher",
         "facebook": "https://facebook.com/bircher",
         "twitter": "https://twitter.com/fabianbircher",
-        "url": "https://www.drupal.org/u/Bircher"
+        "drupal": "https://www.drupal.org/u/Bircher"
       },
       "bio": "<p>Physics graduate who worked as a full-time volunteer in student associations as a web project administrator, now employed as a Drupal developer. Currently holds senior positions at Nuvole and the European Commission, with expertise in developer architecture and web project administration.</p>"
     },
@@ -4375,7 +5000,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1845398-1535837205.jpg?itok=iYwHJx5W",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1845398-1535837205.jpg?itok=iYwHJx5W",
         "linkedin": "http://www.linkedin.com/in/boyanborisov",
-        "url": "https://www.drupal.org/u/Boyan.borisov"
+        "drupal": "https://www.drupal.org/u/Boyan.borisov"
       },
       "bio": ""
     },
@@ -4394,7 +5019,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-240860-1461180559.jpg?itok=w1tI1Vpq",
         "linkedin": "http://www.linkedin.com/in/tedbow",
         "twitter": "http://twitter.com/#!/tedbow",
-        "url": "https://www.drupal.org/u/Tedbow"
+        "drupal": "https://www.drupal.org/u/Tedbow"
       },
       "bio": "<p>Drupal Trainer and Developer. Principal Software Engineer in Drupal Acceleration Team at Acquia.</p>"
     },
@@ -4415,7 +5040,7 @@
         "website": "http://www.1xinternet.de",
         "linkedin": "http://www.linkedin.com/in/breidert",
         "twitter": "https://twitter.com/breidert",
-        "url": "https://www.drupal.org/u/Breidert"
+        "drupal": "https://www.drupal.org/u/Breidert"
       },
       "bio": "<p>Managing Director at 1xINTERNET, based in Germany. Active in the Drupal community for 19+ years, maintaining numerous AI-focused and developer tools projects. Serves as a Top Tier Drupal Certified Partner and Drupal AI Founding Sponsor through his organization.</p>"
     },
@@ -4434,7 +5059,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3615317-1638263976.jpg?itok=HwcOcdbP",
         "linkedin": "https://www.linkedin.com/in/wouterdebruycker/",
         "website": "https://www.wouterdebruycker.be",
-        "url": "https://www.drupal.org/u/Wouterdebr"
+        "drupal": "https://www.drupal.org/u/Wouterdebr"
       },
       "bio": "<p>Wouter De Bruycker is a Belgian SEO expert specialized in technical SEO, E-E-A-T and Core Web Vitals optimization. He serves as an SEO Strategist &amp; Evangelist and is Co-founder of Dropsolid, along with being Founder of René and Mooviestats.</p>"
     },
@@ -4455,7 +5080,7 @@
         "website": "https://dri.es",
         "linkedin": "http://www.linkedin.com/in/buytaert",
         "twitter": "http://twitter.com/dries",
-        "url": "https://www.drupal.org/u/dries"
+        "drupal": "https://www.drupal.org/u/dries"
       },
       "bio": "<p>Founder and Project Lead of Drupal. Product Lead of Drupal Starshot / Drupal CMS. Co-founder and Board Member of the Drupal Association. Co-founder, CTO and CSO of Acquia.</p>"
     },
@@ -4500,7 +5125,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-286806-1728571860.jpg?itok=03Pcm1DK",
         "linkedin": "https://www.linkedin.com/in/jeremy-chinquist-b543a224/",
         "website": "https://drunomics.com/team",
-        "url": "https://www.drupal.org/u/Jjchinquist"
+        "drupal": "https://www.drupal.org/u/Jjchinquist"
       },
       "bio": "<p>Drupal enthusiast since 2006 and Drupal-Austria bookkeeper since 2015. Originally from St. Paul, Minnesota, has lived in Vienna, Austria since 2005. Holds a BA in Computer Science and MA in Information Management, and is a Certified Scrum Master.</p>"
     },
@@ -4520,7 +5145,7 @@
         "website": "https://raffaelechiocca.it/",
         "linkedin": "https://it.linkedin.com/in/raffaele-chiocca-5b33b64a",
         "twitter": "https://twitter.com/Raphaelnaples",
-        "url": "https://www.drupal.org/u/Rafuel92"
+        "drupal": "https://www.drupal.org/u/Rafuel92"
       },
       "bio": "<p>I regularly contribute at core issues and contrib modules of Drupal since 2013. Acquia Certified Drupal Developer.</p>"
     },
@@ -4553,7 +5178,7 @@
         "website": "https://www.mandclu.com/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-52136-1553526810.jpg?itok=JVnabqvG",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-52136-1553526810.jpg?itok=JVnabqvG",
-        "url": "https://www.drupal.org/u/mandclu"
+        "drupal": "https://www.drupal.org/u/mandclu"
       },
       "bio": "<p>Senior Product Marketing Manager, Drupal at Acquia. On Drupal.org for over 20 years, with expertise in custom module development, contributed module patching, and Apache Solr search.</p>"
     },
@@ -4613,7 +5238,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-751698-1409022901.jpg?itok=WMjiJ8hr",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-751698-1409022901.jpg?itok=WMjiJ8hr",
-        "url": "https://www.drupal.org/u/D34dman"
+        "drupal": "https://www.drupal.org/u/D34dman"
       },
       "bio": ""
     },
@@ -4630,7 +5255,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3715238-1707760006.png?itok=A1bvm9lD",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3715238-1707760006.png?itok=A1bvm9lD",
-        "url": "https://www.drupal.org/u/Claudiadesiderio"
+        "drupal": "https://www.drupal.org/u/Claudiadesiderio"
       },
       "bio": ""
     },
@@ -4647,7 +5272,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3064-1641944732.png?itok=9C0fldZm",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3064-1641944732.png?itok=9C0fldZm",
-        "url": "https://www.drupal.org/u/Drumm"
+        "drupal": "https://www.drupal.org/u/Drumm"
       },
       "bio": "<p>CivicSpace lead developer. Drupal 5 maintainer (retired). Drupal Association General Assembly. Security team. Drupal.org Architect.</p>"
     },
@@ -4665,7 +5290,7 @@
         "linkedin": "https://www.linkedin.com/in/jenniferdumitrescu/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1783532-1697668488.jpg?itok=YgO1ASW3",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1783532-1697668488.jpg?itok=YgO1ASW3",
-        "url": "https://www.drupal.org/u/jennydumitrescu"
+        "drupal": "https://www.drupal.org/u/jennydumitrescu"
       },
       "bio": "<p>Senior Systems Developer at the University of Cambridge's UIS. Long-time Drupal developer since 2011, active on Drupal.org for over 14 years.</p>"
     },
@@ -4683,7 +5308,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1903334-1520872028.jpg?itok=l1YVc0Ko",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1903334-1520872028.jpg?itok=l1YVc0Ko",
         "linkedin": "https://www.linkedin.com/in/pierredureau/",
-        "url": "https://www.drupal.org/u/pdureau"
+        "drupal": "https://www.drupal.org/u/pdureau"
       },
       "bio": "<p>Drupal professional since 2006. Creator &amp; leader of UI Suite. Core lead, front-end manager. Co-maintainer of SDC, the Icon API and the asset library API. Passionate about Drupal architecture and design systems methodology, maintaining numerous UI-focused modules and themes within the Drupal ecosystem.</p>"
     },
@@ -4702,7 +5327,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-52557-1769554138.jpg?itok=KXchK3VX",
         "linkedin": "https://www.linkedin.com/in/scottfalconer/",
         "website": "https://www.managing-ai.com/",
-        "url": "https://www.drupal.org/u/Scott-falconer"
+        "drupal": "https://www.drupal.org/u/Scott-falconer"
       },
       "bio": "<p>Senior Director, Drupal, Applied AI, &amp; Agent Success at Acquia. On Drupal.org for 20 years, with contributions including conference presentations on barcodes, mobile app development, and AI-assisted coding. Maintains multiple Drupal projects focused on AI initiatives and enterprise tools.</p>"
     },
@@ -4721,7 +5346,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-594458-1758854233.jpg?itok=6mRl1tmN",
         "website": "http://fosterinteractive.com",
         "linkedin": "http://www.linkedin.com/in/aidanfoster",
-        "url": "https://www.drupal.org/u/Afoster"
+        "drupal": "https://www.drupal.org/u/Afoster"
       },
       "bio": "<p>Organizer of Toronto Drupal User's Group and co-organizer of Drupal North Symposium. Areas of expertise include Drupal site building, front-end development, user experience, and theming. Currently serves as Strategy Lead at Foster Interactive Inc., working in higher education, corporate, and B2B sectors. Member of the Drupal community for 16+ years with contributions to documentation, security advisories, and issue queues.</p>"
     },
@@ -4740,7 +5365,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3591999-1774095486.png?itok=WoZ3LLdq",
         "linkedin": "https://es.linkedin.com/in/davidgaleanobarrado",
         "twitter": "https://twitter.com/gxleano",
-        "url": "https://www.drupal.org/u/gxleano"
+        "drupal": "https://www.drupal.org/u/gxleano"
       },
       "bio": "<p>David Galeano serves as a Senior Backend &amp; AI Innovation Engineer at Factorial GmbH. His expertise centers on backend development, and his frontend integration involvement has shaped him into a full-stack developer. He holds certifications including Acquia Certified Developer - Drupal 11 and Forcontu Expert in Drupal 8 Back-End Development.</p>"
     },
@@ -4774,7 +5399,7 @@
         "linkedin": "https://ca.linkedin.com/in/mgifford",
         "twitter": "https://twitter.com/#!/mgifford",
         "website": "https://civicactions.com/",
-        "url": "https://www.drupal.org/u/Mgifford"
+        "drupal": "https://www.drupal.org/u/Mgifford"
       },
       "bio": "<p>Mike Gifford is a Senior Strategist at CivicActions. His primary focus is on building digital accessibility confidence and capabilities in the public sector. Previously founded OpenConcept Consulting and has been involved with digital accessibility since the 1990s. Became Drupal's Core Accessibility Maintainer in 2012.</p>"
     },
@@ -4793,7 +5418,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3607455-1591982482.png?itok=5AKPzndM",
         "website": "https://imagexmedia.com/",
         "linkedin": "https://www.linkedin.com/in/rosiegladden/",
-        "url": "https://www.drupal.org/u/rgladden"
+        "drupal": "https://www.drupal.org/u/rgladden"
       },
       "bio": "<p>Rosie leads marketing for ImageX, a Vancouver-based Drupal agency operating since 2001. She brings extensive B2B marketing experience across agency and client-side roles in various industries. Outside work, she enjoys hiking, skiing, and exploring her local area.</p>"
     },
@@ -4813,7 +5438,7 @@
         "linkedin": "http://www.linkedin.com/in/mattglaman",
         "twitter": "http://twitter.com/nmdmatt",
         "website": "https://mglaman.dev/",
-        "url": "https://www.drupal.org/u/mglaman"
+        "drupal": "https://www.drupal.org/u/mglaman"
       },
       "bio": "<p>Matt Glaman is an experienced software engineer and a prominent member of the Drupal community. With over a decade of experience in web development, he has gained a wealth of knowledge and expertise in the field. He authored development cookbooks for Drupal 8 and Drupal 10, and actively contributes to Drupal projects while helping others develop their professional skills.</p>"
     },
@@ -4830,7 +5455,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1599440-1491296148.jpg?itok=EJKCZyu9",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1599440-1491296148.jpg?itok=EJKCZyu9",
-        "url": "https://www.drupal.org/u/Graber"
+        "drupal": "https://www.drupal.org/u/Graber"
       },
       "bio": "<p>Drupal architect and open source contributor specializing in LMS and large-scale education platforms. Maintainer of Views Bulk Operations for Drupal 8+ and co-creator of Drupal LMS. Passionate about clean architecture, scalable systems, and building software that empowers learning.</p>"
     },
@@ -4851,7 +5476,7 @@
         "twitter": "https://twitter.com/grienauer",
         "facebook": "https://fb.com/grienauer",
         "website": "http://www.acolono.com",
-        "url": "https://www.drupal.org/u/Grienauer"
+        "drupal": "https://www.drupal.org/u/Grienauer"
       },
       "bio": "<p>Founder and CEO of Acolono GmbH, deeply involved in the Austrian Drupal community. Serves as Deputy Chairman of Drupal Austria, organizes DrupalCamp Vienna and Drupal Developer Days Vienna, and acts as an Event Organizer Working Group Advisory Committee Member. Initiated the \"Austrian Open Source Award\" and Open Source Ball, created Drupical, and founded Acolono GmbH.</p>"
     },
@@ -4883,7 +5508,7 @@
         "twitter": "https://twitter.com/forhemant",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3278073-1441707103.jpg?itok=TO29Y0fB",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3278073-1441707103.jpg?itok=TO29Y0fB",
-        "url": "https://www.drupal.org/u/guptahemant"
+        "drupal": "https://www.drupal.org/u/guptahemant"
       },
       "bio": "<p>Technical Architect at QED42. Curious developer who likes to learn new things, on Drupal.org for over 11 years.</p>"
     },
@@ -4903,7 +5528,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-168924-1648366190.jpg?itok=-HZnnZzW",
         "linkedin": "http://www.linkedin.com/in/jurgenhaas",
         "website": "https://www.lakedrops.com",
-        "url": "https://www.drupal.org/u/Jurgenhaas"
+        "drupal": "https://www.drupal.org/u/Jurgenhaas"
       },
       "bio": ""
     },
@@ -4934,7 +5559,7 @@
         "linkedin": "https://linkedin.com/in/drupalviking/",
         "twitter": "https://twitter.com/drupalviking",
         "website": "https://drupalviking.com",
-        "url": "https://www.drupal.org/u/drupalviking"
+        "drupal": "https://www.drupal.org/u/drupalviking"
       },
       "bio": "<p>CEO/CTO/Senior Drupal Developer at Um ad gera ehf. Adjunct professor at Reykjavik University, teaching a Drupal-based open source web software course. On Drupal.org for 13+ years as translator, mentor, and project maintainer.</p>"
     },
@@ -4953,7 +5578,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-118428-1555375519.jpg?itok=1AF-KXjP",
         "linkedin": "https://www.linkedin.com/in/mherchel/",
         "website": "http://www.herchel.com",
-        "url": "https://www.drupal.org/u/Mherchel"
+        "drupal": "https://www.drupal.org/u/Mherchel"
       },
       "bio": "<p>Mike Herchel serves as Lead Evangelist for Digital Marketing &amp; Vibe Coding at Acquia and founder of Dripyard premium themes. With nearly two decades in the Drupal ecosystem, he operates at the convergence of Drupal, modern front-end development, AI, and developer advocacy. As a Drupal Core Frontend Framework Manager, he maintains the platform's CSS subsystem and developed its default Olivero theme. His career includes major implementations for organizations like the Syfy Network, U.S. Small Business Administration, IBM, and the U.S. Court System.</p><p>Beyond core contributions, he evangelizes Drupal through technical content, conference speaking, and community organizing — particularly as primary organizer of Florida DrupalCamp for over a decade.</p>"
     },
@@ -4973,7 +5598,7 @@
         "facebook": "https://facebook.com/glennhilton",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-250993-1761757431.jpg?itok=0Qi8Lb_I",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-250993-1761757431.jpg?itok=0Qi8Lb_I",
-        "url": "https://www.drupal.org/u/glenn-hilton"
+        "drupal": "https://www.drupal.org/u/glenn-hilton"
       },
       "bio": "<p>Founder and CEO of ImageX, a Drupal agency he launched in 2001. 25 years of leadership experience and nearly two decades in the Drupal community; joined the Drupal Association Board of Directors in November 2025.</p>"
     },
@@ -5031,7 +5656,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3714625-1773656165.jpg?itok=7NsY2enZ",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3714625-1773656165.jpg?itok=7NsY2enZ",
-        "url": "https://www.drupal.org/u/Emma-horrell"
+        "drupal": "https://www.drupal.org/u/Emma-horrell"
       },
       "bio": "<p>Women in Drupal Award 2025 winner. UX Manager for Drupal Core and UX Research Lead for Drupal CMS, coordinating user research, testing, and user-centered design. Areas of expertise include user experience design, user research, usability testing, marketing, content design, information architecture, and navigation.</p>"
     },
@@ -5064,7 +5689,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1177504-1458160559.jpg?itok=4GC3vpaw",
         "linkedin": "https://www.linkedin.com/in/johnwjameson",
         "website": "http://editoria11y.com",
-        "url": "https://www.drupal.org/u/Itmaybejj"
+        "drupal": "https://www.drupal.org/u/Itmaybejj"
       },
       "bio": ""
     },
@@ -5084,7 +5709,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-385947-1749926801.jpg?itok=3Gd6FdoP",
         "linkedin": "https://www.linkedin.com/in/marcusjohansson80",
         "website": "https://workflows-of-ai.com",
-        "url": "https://www.drupal.org/u/Marcus_johansson"
+        "drupal": "https://www.drupal.org/u/Marcus_johansson"
       },
       "bio": "<p>\"I tinker with AI.\" Manages the AI module and numerous submodules within the Drupal ecosystem. Areas of expertise include large-scale Drupal implementations, full-stack development, DevOps, AI systems, and headless Drupal architecture.</p>"
     },
@@ -5101,7 +5726,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1921582-1401875824.png?itok=UEn0Pr22",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1921582-1401875824.png?itok=UEn0Pr22",
-        "url": "https://www.drupal.org/u/Julienjoye"
+        "drupal": "https://www.drupal.org/u/Julienjoye"
       },
       "bio": ""
     },
@@ -5119,7 +5744,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-124705-1623073261.png?itok=JtKZ5r-p",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-124705-1623073261.png?itok=JtKZ5r-p",
         "website": "https://www.jarltech.com/",
-        "url": "https://www.drupal.org/u/Mkalkbrenner"
+        "drupal": "https://www.drupal.org/u/Mkalkbrenner"
       },
       "bio": "<p>Head of Software Engineering at Jarltech Europe GmbH, based in Germany.</p>"
     },
@@ -5152,7 +5777,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-613760-1759274525.jpg?itok=Xwibie7r",
         "linkedin": "https://linkedin.com/in/balintkleri",
         "website": "https://balintbrews.com",
-        "url": "https://www.drupal.org/u/balintbrews"
+        "drupal": "https://www.drupal.org/u/balintbrews"
       },
       "bio": "<p>Full-time contributor to Drupal Canvas, leading Code Components development through Acquia support. Seasoned Drupal developer since version 5, with prior roles at NodeOne/Wunderkraut, Commerce Guys/Platform.sh, and Bluespark. React expertise since pre-1.0 release. Founded two companies, serving as CTO and building and directing engineering teams.</p>"
     },
@@ -5168,7 +5793,7 @@
         "nobody-asked-cms-content-management-answer-delivery-age-ai"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/Ullakoho"
+        "drupal": "https://www.drupal.org/u/Ullakoho"
       },
       "bio": ""
     },
@@ -5187,7 +5812,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3571202-1780382058.jpg?itok=8QCbmOvm",
         "linkedin": "https://www.linkedin.com/in/sanna-kramsi/",
         "website": "https://sanna.a11y.ing",
-        "url": "https://www.drupal.org/u/calydia"
+        "drupal": "https://www.drupal.org/u/calydia"
       },
       "bio": ""
     },
@@ -5204,7 +5829,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3638192-1727320593.png?itok=_vM4nwrN",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3638192-1727320593.png?itok=_vM4nwrN",
-        "url": "https://www.drupal.org/u/Kyriazo"
+        "drupal": "https://www.drupal.org/u/Kyriazo"
       },
       "bio": "<p>Backend Web Developer at E-sepia Web Innovation (Silver Drupal Certified Partner), member of the Greek Drupal Community. On Drupal.org for 6+ years, maintaining several Drupal projects including Commerce BOX NOW and Commerce Replicate.</p>"
     },
@@ -5248,7 +5873,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-54034-1745078658.jpg?itok=Kd5u_cPe",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-54034-1745078658.jpg?itok=Kd5u_cPe",
         "twitter": "https://twitter.com/TimLehnen",
-        "url": "https://www.drupal.org/u/Hestenet"
+        "drupal": "https://www.drupal.org/u/Hestenet"
       },
       "bio": ""
     },
@@ -5289,7 +5914,7 @@
         "skin-game-digital-sovereignty-ai-and-sustainability-drupal"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/jwlockhart"
+        "drupal": "https://www.drupal.org/u/jwlockhart"
       },
       "bio": ""
     },
@@ -5310,7 +5935,7 @@
         "facebook": "http://www.facebook.com/valthebald",
         "twitter": "http://twitter.com/valthebald",
         "website": "http://www.valthebald.net",
-        "url": "https://www.drupal.org/u/Valthebald"
+        "drupal": "https://www.drupal.org/u/Valthebald"
       },
       "bio": "<p>Drupal and open source enthusiast serving as maintainer of multiple contrib modules including Examples for developers, metatags_quick, data, and ljxp. Currently founder of Wise Trout and Drupal Developer at DropSolid. Areas of expertise span system architecture, development, and DevOps work.</p>"
     },
@@ -5329,7 +5954,7 @@
         "website": "https://www.sparkfabrik.com",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-138068-1707859755.png?itok=tTeJQUYp",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-138068-1707859755.png?itok=tTeJQUYp",
-        "url": "https://www.drupal.org/u/lussoluca"
+        "drupal": "https://www.drupal.org/u/lussoluca"
       },
       "bio": "<p>Lead developer at SparkFabrik. Drupal, Symfony and Go developer, maintainer of the Drupal WebProfiler and Monolog modules.</p>"
     },
@@ -5349,7 +5974,7 @@
         "linkedin": "https://www.linkedin.com/in/vijaycs85/",
         "twitter": "http://twitter.com/vijaycs85",
         "website": "https://www.vijaycs85.com",
-        "url": "https://www.drupal.org/u/vijaycs85"
+        "drupal": "https://www.drupal.org/u/vijaycs85"
       },
       "bio": ""
     },
@@ -5383,7 +6008,7 @@
         "twitter": "https://twitter.com/junaidmasudi",
         "facebook": "https://facebook.com/junaidmasoodi",
         "website": "http://junaidmasoodi.com",
-        "url": "https://www.drupal.org/u/Junaidmasoodi"
+        "drupal": "https://www.drupal.org/u/Junaidmasoodi"
       },
       "bio": "<p>Born and raised in mountains, with a love and empathy for humans. I have been here for a while to help community and myself. Accessibility, user experience and front-end are core forte.</p>"
     },
@@ -5414,7 +6039,7 @@
         "linkedin": "https://www.linkedin.com/in/aaronmchale",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-429621-1620130656.jpg?itok=NplHxf-v",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-429621-1620130656.jpg?itok=NplHxf-v",
-        "url": "https://www.drupal.org/u/aaronmchale"
+        "drupal": "https://www.drupal.org/u/aaronmchale"
       },
       "bio": "<p>Software engineer specialising in Drupal, with an interest in usability and human centred design. Technical Lead for Prospective Student Web at the University of Edinburgh.</p>"
     },
@@ -5435,7 +6060,7 @@
         "linkedin": "https://www.linkedin.com/in/tomi-mikola/",
         "twitter": "https://twitter.com/tomimikola",
         "website": "https://wunder.io/",
-        "url": "https://www.drupal.org/u/Tomimikola"
+        "drupal": "https://www.drupal.org/u/Tomimikola"
       },
       "bio": ""
     },
@@ -5480,7 +6105,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-2876343-1531474750.jpg?itok=q1rkOw2U",
         "linkedin": "https://www.linkedin.com/in/adamweb/",
         "website": "https://codersize.com/",
-        "url": "https://www.drupal.org/u/Joevagyok"
+        "drupal": "https://www.drupal.org/u/Joevagyok"
       },
       "bio": "<p>\"For over a decade, I've been quietly building some of the web infrastructure Europeans interact with every day, most notably the Europa Web Platform, the backbone of the EU's online presence across 330+ sites. My work sits at the intersection of Drupal architecture, AI integration, and open-source contribution. In 2025 and 2026, I led both years' teams to first place at the Drupal AI hackathons. I believe in giving back: I maintain open-source Drupal projects and contribute upstream whenever I can.\"</p>"
     },
@@ -5498,7 +6123,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3789888-1787218348.png?itok=sjP5Wvwg",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3789888-1787218348.png?itok=sjP5Wvwg",
         "linkedin": "https://www.linkedin.com/in/ulka-neil/",
-        "url": "https://www.drupal.org/u/ulkaneildrupal"
+        "drupal": "https://www.drupal.org/u/ulkaneildrupal"
       },
       "bio": "<p>Project Manager with 7+ years in software delivery leadership, currently at Axelerant Technologies. Her expertise centers on managing Drupal implementations, upgrades, and migrations across industries, overseeing scope, budgets, timelines, and stakeholder relationships throughout project lifecycles.</p><p>Her professional focus bridges technical execution and client relations. She translates business needs into sprint work, coordinates teams (developers, QA, designers, architects), and maintains project momentum, with emphasis on risk management and governance.</p><p>Beyond active delivery, she advocates for elevating project management standards in open-source and Drupal-based work.</p>"
     },
@@ -5516,7 +6141,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3245840-1650526851.png?itok=AaVT4Zar",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3245840-1650526851.png?itok=AaVT4Zar",
         "website": "http://www.roromedia.com",
-        "url": "https://www.drupal.org/u/roromedia"
+        "drupal": "https://www.drupal.org/u/roromedia"
       },
       "bio": ""
     },
@@ -5561,7 +6186,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-2661375-1467030154.jpg?itok=9QT6ASO_",
         "linkedin": "http://it.linkedin.com/in/robertoperuzzo/",
         "website": "https://robertoperuzzo.it",
-        "url": "https://www.drupal.org/u/robertoperuzzo"
+        "drupal": "https://www.drupal.org/u/robertoperuzzo"
       },
       "bio": "<p>Roberto is passionate about coding and skateboarding, noting both have taught him \"balance, creativity, and the joy of being part of quirky, open-minded communities.\" He graduated in Computer Science from Ca' Foscari University of Venice in 2003 and worked as a software developer before co-founding Studio AQUA in 2005, where he spent nearly two decades blending software engineering, web marketing, and user experience with Drupal. In 2023, he joined SparkFabrik, where he continues working with their Drupal team in Italy.</p>"
     },
@@ -5580,7 +6205,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-209981-1540543933.jpg?itok=oydnxWR8",
         "linkedin": "http://www.linkedin.com/pub/francesco-pesenti/37/952/954",
         "twitter": "http://twitter.com/pex_imo",
-        "url": "https://www.drupal.org/u/peximo"
+        "drupal": "https://www.drupal.org/u/peximo"
       },
       "bio": ""
     },
@@ -5596,7 +6221,7 @@
         "enterprise-drupal-ai-summit"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/Squinternata"
+        "drupal": "https://www.drupal.org/u/Squinternata"
       },
       "bio": ""
     },
@@ -5615,7 +6240,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-183211-1402620131.jpg?itok=ER1x0SDM",
         "linkedin": "http://it.linkedin.com/in/plach79",
         "twitter": "http://twitter.com/plach__",
-        "url": "https://www.drupal.org/u/Plach"
+        "drupal": "https://www.drupal.org/u/Plach"
       },
       "bio": "<p>Drinking beer, playing bass and learning judo. Now I also have a kid :)</p>"
     },
@@ -5645,7 +6270,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-312340-1612181501.jpg?itok=7gaoIHRh",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-312340-1612181501.jpg?itok=7gaoIHRh",
-        "url": "https://www.drupal.org/u/wigglykoala"
+        "drupal": "https://www.drupal.org/u/wigglykoala"
       },
       "bio": "<p>Designer-developer and co-founder of Chicken, a Bristol-based agency specialising in accessible, sustainable websites for councils and communities. Nearly two decades in design and development, starting in print before moving into front-end development and digital accessibility.</p>"
     },
@@ -5662,7 +6287,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1977720-1502453285.png?itok=BF93-q8x",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1977720-1502453285.png?itok=BF93-q8x",
-        "url": "https://www.drupal.org/u/francescoq"
+        "drupal": "https://www.drupal.org/u/francescoq"
       },
       "bio": ""
     },
@@ -5734,7 +6359,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-229048-1403973821.jpg?itok=kNyldmcu",
         "linkedin": "https://www.linkedin.com/in/merlin-rutz",
         "website": "https://www.hook-dev-alter.com",
-        "url": "https://www.drupal.org/u/geek-merlin"
+        "drupal": "https://www.drupal.org/u/geek-merlin"
       },
       "bio": ""
     },
@@ -5764,7 +6389,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-894458-1773738233.jpg?itok=qcyNfeKz",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-894458-1773738233.jpg?itok=qcyNfeKz",
-        "url": "https://www.drupal.org/u/Anruether"
+        "drupal": "https://www.drupal.org/u/Anruether"
       },
       "bio": ""
     },
@@ -5783,7 +6408,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3684666-1643100571.jpg?itok=F3mawdhb",
         "linkedin": "https://www.linkedin.com/in/vighnesh-sadagopal-9b72721b5/",
         "twitter": "https://x.com/_vighnesh_vs",
-        "url": "https://www.drupal.org/u/vighneshh"
+        "drupal": "https://www.drupal.org/u/vighneshh"
       },
       "bio": "<p>Hi, I'm Vighnesh Sadagopal &ndash; a Drupal contributor, community organizer, and active member of the Pune Drupal community. I help organize Drupal Meetups and DrupalCamps in Pune, India, including serving on the steering committee for DrupalCamp 2025. I contribute to Drupal open source with a focus on backend development and am currently working on bringing new AI capabilities into Drupal.</p>"
     },
@@ -5841,7 +6466,7 @@
         "website": "https://jamesmatthewsaunders.ai",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-114486-1585855714.jpg?itok=FITCH95n",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-114486-1585855714.jpg?itok=FITCH95n",
-        "url": "https://www.drupal.org/u/matthews"
+        "drupal": "https://www.drupal.org/u/matthews"
       },
       "bio": "<p>AI Ambassador for amazee.io, contributing to the Track Team for the Drupal AI Strategic Initiative. A digital strategy leader focused on AI integration, accessibility, and neurodiversity advocacy, active in the Drupal community since 2006.</p>"
     },
@@ -5860,7 +6485,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3847392-1748628991.jpg?itok=rGe7zSnL",
         "linkedin": "https://www.linkedin.com/in/maya-schaeffer-64835a110/",
         "website": "https://evolvingweb.com/",
-        "url": "https://www.drupal.org/u/Mayalena"
+        "drupal": "https://www.drupal.org/u/Mayalena"
       },
       "bio": "<p>A leader in reimagining in-person community engagement within the open source ecosystem. Founded EvolveDigital and EvolveDrupal, organizing over a dozen summits across North America with approximately 1,700 attendees, including 40% from outside traditional Drupal circles.</p><p>Currently leads Community &amp; Employee Experience at Evolving Web, managing marketing, events, and partnerships while developing organizational culture. Also serves on the Drupal Association Board, championing broader community participation and inclusive, non-technical entry points into Drupal.</p>"
     },
@@ -5880,7 +6505,7 @@
         "website": "https://amazee.io",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-643820-1462170688.png?itok=Wvo_nVqO",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-643820-1462170688.png?itok=Wvo_nVqO",
-        "url": "https://www.drupal.org/u/schnitzel"
+        "drupal": "https://www.drupal.org/u/schnitzel"
       },
       "bio": "<p>Known as \"Schnitzel\". Group CTO and Board member of Amazee, founder and Head of Technology at amazee.io. Familiar at DrupalCon as the long-haired guy directing the official group photo.</p>"
     },
@@ -5898,7 +6523,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
         "website": "https://lostcarpark.com",
-        "url": "https://www.drupal.org/u/lostcarpark"
+        "drupal": "https://www.drupal.org/u/lostcarpark"
       },
       "bio": "<p>I have been using Drupal for many years, but only became really active in the community in the 2020s. Since then I have become actively involved in a number of projects, and have joined the Drupal mentoring team. I am a keen advocate of community contribution, and gave a talk on fostering contribution at DrupalCon Vienna 2025. I also organise the Drupal Advent Calendar every December.</p>"
     },
@@ -5918,7 +6543,7 @@
         "linkedin": "http://www.linkedin.com/in/ajshinde",
         "facebook": "http://www.facebook.com/ajit.shinde25",
         "twitter": "https://twitter.com/azeets",
-        "url": "https://www.drupal.org/u/Ajits"
+        "drupal": "https://www.drupal.org/u/Ajits"
       },
       "bio": "<p>Senior Developer at Tag1 Consulting, Inc. Contributor to the Drupal community since 2009.</p>"
     },
@@ -5961,7 +6586,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-690914-1480445649.png?itok=QvSafg61",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-690914-1480445649.png?itok=QvSafg61",
-        "url": "https://www.drupal.org/u/Lendude"
+        "drupal": "https://www.drupal.org/u/Lendude"
       },
       "bio": ""
     },
@@ -5981,7 +6606,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3572848-1725567200.jpg?itok=b7l-AW-l",
         "linkedin": "https://www.linkedin.com/in/esmeralda-tijhoff/",
         "website": "https://dictu.nl",
-        "url": "https://www.drupal.org/u/Esmoves"
+        "drupal": "https://www.drupal.org/u/Esmoves"
       },
       "bio": "<p>Winner of Women in Drupal Awards 2024. Working on Drupal projects for the Dutch government at DICTU. Open Source Officer within the Dutch government. Organizing member for the Network of European Drupal Associations (NEDA). Product Owner at La_eu Site project for local Drupal associations. Board member of the Dutch Drupal Association and of the Event Organizers Working Group (EOWG). Part of the Open Source Werken writers-group (Ministry of Domestic Affairs), and occasional writer for The Drop Times. Event organizer for Splash Awards, DrupalJam, and DICTU's Drupal Dev Day.</p>"
     },
@@ -5999,7 +6624,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-69065-1585404429.jpg?itok=T_-Re0xO",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-69065-1585404429.jpg?itok=T_-Re0xO",
         "linkedin": "http://ca.linkedin.com/in/christophertorgalson",
-        "url": "https://www.drupal.org/u/Bedlam"
+        "drupal": "https://www.drupal.org/u/Bedlam"
       },
       "bio": "<p>Developer at Annertech, based in Toronto, with 20+ years on Drupal.org. Areas of expertise include development, theming, and site building.</p>"
     },
@@ -6019,7 +6644,7 @@
         "twitter": "https://twitter.com/dpacassi",
         "linkedin": "https://www.linkedin.com/in/dpacassi",
         "website": "https://pacassi.ch/",
-        "url": "https://www.drupal.org/u/dpacassi"
+        "drupal": "https://www.drupal.org/u/dpacassi"
       },
       "bio": "<p>Working as a developer for web agencies since 2008, full stack developer and team player, Drupalista since 2013. Oh, and a big fan of Paragraphs! Tries to enhance his local Drupal community and also provides tests/patches for Drupal modules as well as Drupal core.</p>"
     },
@@ -6036,7 +6661,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3571890-1628025448.jpg?itok=lnEJ6527",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3571890-1628025448.jpg?itok=lnEJ6527",
-        "url": "https://www.drupal.org/u/johntran"
+        "drupal": "https://www.drupal.org/u/johntran"
       },
       "bio": "<p>CTO at ImageX, DrupalCamp speaker, on Drupal.org for over 8 years.</p>"
     },
@@ -6064,7 +6689,7 @@
         "how-can-we-improve-drupals-visibility-chatgpt-gemini-and-claude"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/luzie"
+        "drupal": "https://www.drupal.org/u/luzie"
       },
       "bio": ""
     },
@@ -6082,7 +6707,7 @@
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-138305-1412364179.jpg?itok=9YvvktuQ",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-138305-1412364179.jpg?itok=9YvvktuQ",
         "website": "http://www.finalist.nl",
-        "url": "https://www.drupal.org/u/Valgibson"
+        "drupal": "https://www.drupal.org/u/Valgibson"
       },
       "bio": ""
     },
@@ -6101,7 +6726,7 @@
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1868952-1747306687.jpg?itok=ZCJwInYB",
         "linkedin": "http://www.linkedin.com/pub/alexander-varwijk/30/34/437",
         "website": "https://www.alexandervarwijk.com",
-        "url": "https://www.drupal.org/u/Kingdutch"
+        "drupal": "https://www.drupal.org/u/Kingdutch"
       },
       "bio": "<p>Alexander is an ambitious person with a passion for software development and entrepreneurship. With over 20 years of programming experience, of which more than 10 in a professional capacity, he enjoys working on complex strategical projects and has contributed to organisational growth through advice on business processes, strategy, and technical architecture.</p>"
     },
@@ -6121,7 +6746,7 @@
         "website": "http://www.nickveenhof.be",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-122682-1643866366.png",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-122682-1643866366.png",
-        "url": "https://www.drupal.org/u/nick_vh"
+        "drupal": "https://www.drupal.org/u/nick_vh"
       },
       "bio": "<p>Director of Contributor Success at GitLab, based in Ghent, Belgium. Nearly two decades in the Drupal community, former Drupal Association board member, and organizer of multiple DrupalCamp and DrupalCon events.</p>"
     },
@@ -6216,7 +6841,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3832028-1736894198.jpg?itok=1EMUGpfc",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3832028-1736894198.jpg?itok=1EMUGpfc",
-        "url": "https://www.drupal.org/u/ryan_witcombe"
+        "drupal": "https://www.drupal.org/u/ryan_witcombe"
       },
       "bio": "<p>Director, Product Marketing. Maintains the \"Promote Drupal\" project, based in the United States.</p>"
     },
@@ -6246,7 +6871,7 @@
       "links": {
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3434233-1515407661.jpg?itok=Bygzk-uC",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3434233-1515407661.jpg?itok=Bygzk-uC",
-        "url": "https://www.drupal.org/u/Janez-zibelnik"
+        "drupal": "https://www.drupal.org/u/Janez-zibelnik"
       },
       "bio": "<p>I started with web development in 2010 and have experience with PHP, JavaScript, jQuery, HTML5, and CSS3. Previously I developed WordPress projects but from 2016 I focused on development, front-end and back-end with Drupal. I always enjoy learning new things and enjoy a good challenge.</p><p>In my free time, I am a big soccer fan and I am also a certified soccer coach.</p>"
     },
@@ -6266,7 +6891,7 @@
         "linkedin": "http://at.linkedin.com/pub/wolfgang-ziegler/51/319/633",
         "twitter": "http://twitter.com/the_real_fago",
         "website": "http://wolfgangziegler.net",
-        "url": "https://www.drupal.org/u/fago"
+        "drupal": "https://www.drupal.org/u/fago"
       },
       "bio": "<p>Wolfgang Ziegler is a passionate Drupal contributor and system architect from Vienna, Austria. He is Managing Partner and CTO at drunomics in Vienna. Known as 'fago' in the Drupal community, he has been working with Drupal since 2005.</p>"
     },
@@ -6284,7 +6909,7 @@
         "linkedin": "https://www.linkedin.com/in/sam-zwaaij-846015b4/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3523169-1726489108.jpg?itok=_F3BOvOg",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3523169-1726489108.jpg?itok=_F3BOvOg",
-        "url": "https://www.drupal.org/u/semmie"
+        "drupal": "https://www.drupal.org/u/semmie"
       },
       "bio": "<p>Business Developer, Solution Architect &amp; Renaissance man at Synetic.</p>"
     },
@@ -6299,7 +6924,7 @@
         "how-we-made-biggest-performance-gains-decade-drupal-core"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/Catch"
+        "drupal": "https://www.drupal.org/u/Catch"
       },
       "bio": "<p>\"I've been using Drupal since 2005 and contributing to it regularly since 2006. My main focus is on Drupal core, including performance and scalability.\"</p>"
     },
@@ -6314,7 +6939,7 @@
         "hidden-skills-development-practical-building-blocks-team-health"
       ],
       "links": {
-        "url": "https://www.drupal.org/u/frazile"
+        "drupal": "https://www.drupal.org/u/frazile"
       },
       "bio": ""
     }

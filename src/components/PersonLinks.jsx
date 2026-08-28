@@ -9,6 +9,7 @@ import {
   FaYoutube,
   FaGlobe,
 } from "react-icons/fa";
+import { FaDrupal } from "react-icons/fa6";
 import {
   IoLink,
 } from "react-icons/io5";
@@ -18,11 +19,13 @@ const PersonLinks = ({ person }) => {
   const regex = /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
   /**
    * Take a link type and return an appropriate Icon.
-   * @param {string} type 
+   * @param {string} type
    * @returns {string}
    */
   const getLinkIcon = (type) => {
     switch (type) {
+      case "drupal":
+        return <FaDrupal />;
       case "twitter":
         return <FaTwitter />;
       case "fb":
