@@ -4736,8 +4736,12 @@
       "prog": [
         "drupal-ai-product-update-foundation-agentic-workflows"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/nielsaers",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-752444-1460965896.jpg?itok=0ahNCr56",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-752444-1460965896.jpg?itok=0ahNCr56"
+      },
+      "bio": "<p>Chief Product Officer at Dropsolid AI and Owner at Raww Consultancy, based in Belgium. On Drupal.org for over 16 years, working with the Drupal AI Initiative on feature requests and productization, helping define next-generation AI use cases for Drupal.</p>"
     },
     {
       "id": "speaker-gareth-alexander",
@@ -4823,6 +4827,7 @@
       "links": {
         "linkedin": "http://www.linkedin.com/in/anello",
         "twitter": "http://twitter.com/ultimike",
+        "mastodon": "https://drupal.community/@ultimike",
         "website": "http://www.DrupalEasy.com/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-51132-1400198420.jpg?itok=JCgKnvaw",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-51132-1400198420.jpg?itok=JCgKnvaw",
@@ -4936,8 +4941,12 @@
       "prog": [
         "drupal-days-one-year-later"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/guzmanb",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3778750-1700083551.jpg?itok=zUo1jk6w",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3778750-1700083551.jpg?itok=zUo1jk6w"
+      },
+      "bio": "<p>Web developer at inter-punkt.ag based in Aarau, Switzerland. Active on Drupal.org for 3+ years, speaks French, English, German, and Spanish. Organizes and speaks at Drupal Mountain Camp events, and maintains the Drupal Open University and Drupal Switzerland projects.</p>"
     },
     {
       "id": "Bircher",
@@ -4970,8 +4979,15 @@
       "prog": [
         "ai-mid-life-crisis-failure-stories-silent-majority"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/daften",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-176274-1781692213.jpg?itok=bj8sf8hv",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-176274-1781692213.jpg?itok=bj8sf8hv",
+        "linkedin": "http://be.linkedin.com/in/dieterblomme/",
+        "twitter": "https://twitter.com/daften",
+        "fb": "https://www.facebook.com/daften"
+      },
+      "bio": "<p>Technical Director at Dropsolid, Belgium. 19+ years on Drupal.org, works as site builder, developer, team coach, and Drupal architect. Speaks Dutch (primary), French, Spanish. Frequent DrupalCon/DrupalCamp speaker across Europe.</p>"
     },
     {
       "id": "speaker-anthony-bojocan",
@@ -4983,8 +4999,10 @@
       "prog": [
         "reinventing-editorial-experience-how-mars-innovated-drupal-canvas-enterprise"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/anthony-bojocan-307738163/"
+      },
+      "bio": "<p>Testing Process Expert / Test Automation Engineer at Mars, based in Strasbourg, France. Attended DrupalCon Asia (Nara).</p>"
     },
     {
       "id": "Boyan.borisov",
@@ -5094,7 +5112,9 @@
       "prog": [
         "government-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/willguv/"
+      },
       "bio": "<p>LocalGov Drupal.</p>"
     },
     {
@@ -5107,8 +5127,14 @@
       "prog": [
         "ajax-api-htmx-evolving-drupal-interactions"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/ruturaj-chaubey",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3688651-1682315154.jpg?itok=wr-EzLNG",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3688651-1682315154.jpg?itok=wr-EzLNG",
+        "linkedin": "https://www.linkedin.com/in/ruturaj-chaubey-b453b41b1/",
+        "twitter": "https://twitter.com/RChaubey16"
+      },
+      "bio": "<p>Full Stack Engineer at QED42, Pune, India. Drupal 9 Developer certified, ~5 years in the Drupal community. Organizes DrupalCamp events and maintains the Canvas Paragraphs project.</p>"
     },
     {
       "id": "Jjchinquist",
@@ -5159,8 +5185,14 @@
       "prog": [
         "drupal-cms-site-templates-and-beyond"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/ckrina",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1206650-1745503347.png?itok=ZzxFzOoC",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-1206650-1745503347.png?itok=ZzxFzOoC",
+        "linkedin": "http://www.linkedin.com/in/cristinachumillas",
+        "mastodon": "https://mastodon.social/@ckrina"
+      },
+      "bio": "<p>Cristina is an independent Drupal and product consultant based in Barcelona with 15+ years on Drupal.org. She specializes as a designer and frontend developer. Her contributions include co-organizing the Catalan Drupal Association and Drupal Summer Barcelona, participating in numerous Spanish Drupal events, and serving in leadership roles across multiple DrupalCons. Currently, she holds positions as UX Manager and Front-end Framework Manager within the Drupal Core Leadership Team at Cambrico.</p>"
     },
     {
       "id": "speaker-martin-a-clutz",
@@ -5207,7 +5239,14 @@
         "local-voices-global-impact-powering-world-cancer-day-drupal-and-ai",
         "one-portal-16-markets-how-sharp-built-pan-european-partner-ecosystem-drupal"
       ],
-      "links": {},
+      "links": {
+        "drupal": "https://www.drupal.org/u/diegofcosta",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3624664-1579006278.jpg?itok=6MocSHWB",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3624664-1579006278.jpg?itok=6MocSHWB",
+        "website": "http://www.1xinternet.de",
+        "linkedin": "https://www.linkedin.com/in/diegocosta/",
+        "twitter": "https://twitter.com/thediegocosta"
+      },
       "bio": "<p>World Cancer Day (UICC) / 1xINTERNET.</p>"
     },
     {
@@ -5221,8 +5260,11 @@
         "culture-mapping-human-side-ai-workshop-meet-your-people-where-they-are",
         "iamremarkable-workshop"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "website": "https://mybestself.training/",
+        "linkedin": "https://www.linkedin.com/in/timicsontos/"
+      },
+      "bio": "<p>People & culture development consultant and ICF PCC-certified coach based in Hungary, running a practice called \"My Best Self.\" Specializes in workplace wellbeing, organizational culture, and leadership coaching — a Platinum Tier #IAmRemarkable facilitator with 3750+ hours of facilitation and 750+ hours of coaching experience, and has led a women's mentoring program for 12 years.</p>"
     },
     {
       "id": "D34dman",
@@ -5379,8 +5421,15 @@
       "prog": [
         "supply-chain-security-drupal-and-composer"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/ergonlogic",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-368613-1621170635.png?itok=NUi6pMds",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-368613-1621170635.png?itok=NUi6pMds",
+        "website": "https://consensus.enterprises",
+        "linkedin": "http://www.linkedin.com/in/christophergervais",
+        "twitter": "http://twitter.com/ergonlogic"
+      },
+      "bio": "<p>Free/Libre software architect, developer and sysadmin based in Montréal, Québec. Maintains numerous projects with a focus on cloud infrastructure, security, and workflow automation. Founding Partner at Consensus Enterprises and founder of the Aegir Cooperative; has worked with the Drupal Association on secure automatic updates.</p>"
     },
     {
       "id": "Mgifford",
@@ -5490,8 +5539,12 @@
       "prog": [
         "how-marketers-win-ai-first-search-world-aeo-geo-playbook"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/anubhavgupta",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3621512-1563883157.jpg?itok=QrpbanpV",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3621512-1563883157.jpg?itok=QrpbanpV"
+      },
+      "bio": "<p>Senior Product Manager based in India, active on Drupal.org for 7+ years. Expertise spans product management, e-commerce, UI/UX design, and digital marketing. Affiliated with Material (a Platinum Drupal Certified Partner); has spoken at DrupalCon Portland 2022 and Barcelona 2024.</p>"
     },
     {
       "id": "speaker-hemant-gupta",
@@ -5542,7 +5595,9 @@
       "prog": [
         "enterprise-drupal-ai-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/james-hall-81457848/"
+      },
       "bio": "<p>Interviewer.</p>"
     },
     {
@@ -5612,7 +5667,12 @@
       "prog": [
         "enterprise-drupal-ai-summit"
       ],
-      "links": {},
+      "links": {
+        "img": "https://www.drupal.org/files/02-Peter-Hinssen-Low%20%281%29.jpg",
+        "photo": "https://www.drupal.org/files/02-Peter-Hinssen-Low%20%281%29.jpg",
+        "website": "https://www.drupal.org/about/ai/initiatives/blog/keynote-announcement-peter-hinssen-at-enterprise-ai-drupal-summit-europe-2026",
+        "linkedin": "https://www.linkedin.com/in/phinssen/"
+      },
       "bio": "<p>Innovation Strategist and Bestselling Author.</p>"
     },
     {
@@ -5625,8 +5685,13 @@
       "prog": [
         "you-can-and-should-build-site-template"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/phenaproxima",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-205645-1517781496.jpg?itok=jaKdcebb",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-205645-1517781496.jpg?itok=jaKdcebb",
+        "website": "https://phenaproxima.net"
+      },
+      "bio": "<p>Adam Globus-Hoenich, Lead Architect for Drupal CMS (supported by Acquia), based in Massachusetts. Maintains the Lightning distribution, is main architect of the Drupal Module Upgrader, maintains core's migration system, and participates in the Automatic Updates Initiative and PHP-TUF.</p>"
     },
     {
       "id": "Gábor Hojtsy",
@@ -5638,8 +5703,16 @@
       "prog": [
         "drupal-cms-spotlights"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/g%C3%A1bor-hojtsy",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-4166-1591361209.jpg?itok=kTkVMOUu",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-4166-1591361209.jpg?itok=kTkVMOUu",
+        "website": "https://hojtsy.hu/",
+        "linkedin": "https://www.linkedin.com/in/ghojtsy/",
+        "twitter": "https://twitter.com/gaborhojtsy",
+        "fb": "https://www.facebook.com/gabor.hojtsy"
+      },
+      "bio": "<p>Drupal core committer and Core Initiative Coordinator at Acquia, contributing to Drupal.org for 22+ years. Known for localization/internationalization work and leading Drupal's multilingual system. Based in Hungary; former Drupal 6 release manager.</p>"
     },
     {
       "id": "Emma-horrell",
@@ -5670,8 +5743,16 @@
       "prog": [
         "help-shape-drupals-story-global-marketing-call-action"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/zoocha-will",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-949106-1676481724.jpg?itok=c3vFUqx5",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-949106-1676481724.jpg?itok=c3vFUqx5",
+        "website": "http://zoocha.com/",
+        "linkedin": "http://www.linkedin.com/in/willhuggins",
+        "twitter": "https://twitter.com/Willhuggins",
+        "fb": "https://www.facebook.com/willhuggins.zoocha"
+      },
+      "bio": "<p>CEO and co-founder of Zoocha, a Drupal development agency (clients include the UN, University of Cambridge, Alzheimer's Society). Involved in the Drupal community for ~15 years; DrupalCon session reviewer and former Agency & Business track lead for DrupalCon Europe. Based in the United Kingdom.</p>"
     },
     {
       "id": "Itmaybejj",
@@ -5759,7 +5840,12 @@
         "government-summit",
         "keynote"
       ],
-      "links": {},
+      "links": {
+        "img": "https://media.licdn.com/dms/image/v2/D4D16AQG18HLI3kLb_Q/profile-displaybackgroundimage-shrink_200_800/B4DZra87VHJcAU-/0/1764609997151?e=2147483647&v=beta&t=x3rfiygkQ9dyEfQNJrlsXnQ876MIUJQ9ib67U-GfYR8",
+        "photo": "https://media.licdn.com/dms/image/v2/D4D16AQG18HLI3kLb_Q/profile-displaybackgroundimage-shrink_200_800/B4DZra87VHJcAU-/0/1764609997151?e=2147483647&v=beta&t=x3rfiygkQ9dyEfQNJrlsXnQ876MIUJQ9ib67U-GfYR8",
+        "website": "https://karlitschek.de",
+        "linkedin": "https://www.linkedin.com/in/frankkarlitschek/"
+      },
       "bio": "<p>NextCloud.</p>"
     },
     {
@@ -5856,8 +5942,10 @@
       "prog": [
         "agentic-debugging-teaching-ai-step-through-your-code"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/kir-lazur"
+      },
+      "bio": "<p>Senior Software Engineer at EPAM, based in Kyiv, Ukraine. Acquia Certified Developer (Drupal 8). Active on Drupal.org for 13+ years, maintains several modules including AJAXify, Better Emails, and commercetools-related projects.</p>"
     },
     {
       "id": "Hestenet",
@@ -5887,7 +5975,10 @@
       "prog": [
         "higher-education-summit-session"
       ],
-      "links": {},
+      "links": {
+        "img": "https://its.utoronto.ca/wp-content/uploads/2020/02/Kaelynart-560x1024.png",
+        "photo": "https://its.utoronto.ca/wp-content/uploads/2020/02/Kaelynart-560x1024.png"
+      },
       "bio": "<p>University of Toronto.</p>"
     },
     {
@@ -5988,7 +6079,15 @@
       "prog": [
         "enterprise-drupal-ai-summit"
       ],
-      "links": {},
+      "links": {
+        "drupal": "https://www.drupal.org/u/vijaycs85",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-93488-1725958337.jpg?itok=E-Y0PF8M",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-93488-1725958337.jpg?itok=E-Y0PF8M",
+        "website": "https://www.vijaycs85.com",
+        "linkedin": "https://www.linkedin.com/in/vijaycs85/",
+        "twitter": "http://twitter.com/vijaycs85",
+        "mastodon": "https://drupal.community/@vijaycs85"
+      },
       "bio": "<p>CPRD.</p>"
     },
     {
@@ -6074,8 +6173,13 @@
       "prog": [
         "client-experience-everyones-responsibility"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/elliottmower",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3680607-1709738617.png?itok=mutHJabf",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3680607-1709738617.png?itok=mutHJabf",
+        "linkedin": "https://www.linkedin.com/in/elliottmower/"
+      },
+      "bio": "<p>CEO of Mediacurrent (also \"Current\"), a full-stack digital agency, and sister agency Rhythm, within the Code and Theory Network. Product strategy/design leader; Design4Drupal Boston speaker since 2022; Diamond Drupal Certified Partner.</p>"
     },
     {
       "id": "speaker-sachiko-muto",
@@ -6087,7 +6191,9 @@
       "prog": [
         "government-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/sachikomuto/"
+      },
       "bio": "<p>Chair, OpenForum Europe.</p>"
     },
     {
@@ -6155,8 +6261,12 @@
       "prog": [
         "one-portal-16-markets-how-sharp-built-pan-european-partner-ecosystem-drupal"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "img": "https://avatars.githubusercontent.com/u/10899366?s=64&v=4",
+        "photo": "https://avatars.githubusercontent.com/u/10899366?s=64&v=4",
+        "website": "https://github.com/godsomex"
+      },
+      "bio": "<p>Software Engineer based in Hamburg, working at Sharp Electronics Europe. Full-stack engineer and UX/UI enthusiast; studied Information Engineering at the University of Applied Sciences in Kiel, Germany.</p>"
     },
     {
       "id": "speaker-david-ortega",
@@ -6254,7 +6364,9 @@
       "prog": [
         "government-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://nl.linkedin.com/in/ginaplat/en"
+      },
       "bio": "<p>Open Source Program Office, BZK.</p>"
     },
     {
@@ -6302,7 +6414,9 @@
         "enterprise-drupal-ai-summit",
         "local-voices-global-impact-powering-world-cancer-day-drupal-and-ai"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/charlesandrewrevkin/"
+      },
       "bio": "<p>Senior Digital Strategy Manager, World Cancer Day (UICC) / 1xINTERNET.</p>"
     },
     {
@@ -6328,7 +6442,9 @@
       "prog": [
         "higher-education-summit-session"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/billyrosendale/"
+      },
       "bio": "<p>University of Edinburgh.</p>"
     },
     {
@@ -6341,7 +6457,10 @@
       "prog": [
         "government-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/phil-rumens/",
+        "twitter": "https://x.com/PhilRumens"
+      },
       "bio": "<p>Principal Technologist, GDS Local.</p>"
     },
     {
@@ -6373,7 +6492,9 @@
       "prog": [
         "enterprise-drupal-ai-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://de.linkedin.com/in/paulina-ryters"
+      },
       "bio": "<p>European Personnel Selection Office / Dropsolid.</p>"
     },
     {
@@ -6422,7 +6543,10 @@
       "prog": [
         "enterprise-drupal-ai-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/rsalven/",
+        "twitter": "https://x.com/rsalven"
+      },
       "bio": "<p>Aalto University.</p>"
     },
     {
@@ -6448,8 +6572,10 @@
       "prog": [
         "beyond-cms-drupal-backbone-open-health-platform"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/guillemsantamariamotis/"
+      },
+      "bio": "<p>Guillem Santamaria Motis, based in Greater Barcelona, works at NTT DATA Europe & Latam; has Drupal 7 development/maintenance experience and is a team leader in IT development and DevOps.</p>"
     },
     {
       "id": "speaker-matthew-saunders",
@@ -6520,6 +6646,9 @@
         "getting-most-out-gitlab-issue-queues"
       ],
       "links": {
+        "linkedin": "https://www.linkedin.com/in/lostcarpark/",
+        "bsky": "https://bsky.app/profile/lostcarpark.bsky.social",
+        "mastodon": "https://www.linkedin.com/in/lostcarpark/",
         "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
         "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-346773-1446810783.jpg?itok=hXk4hbYC",
         "website": "https://lostcarpark.com",
@@ -6557,8 +6686,13 @@
       "prog": [
         "democratizing-enterprise-applications-positioning-drupal-strategic-low-code"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/gilesmc",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3349238-1447232191.jpg?itok=IGhHdwwh",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3349238-1447232191.jpg?itok=IGhHdwwh",
+        "linkedin": "https://www.linkedin.com/in/giles-mccormick-smith-2b5641a6/"
+      },
+      "bio": "<p>Berlin-based Drupal developer, active on Drupal.org for 10+ years, associated with ]init[ AG.</p>"
     },
     {
       "id": "speaker-rikkert-steenbergen",
@@ -6570,7 +6704,9 @@
       "prog": [
         "when-roadmap-battleground-building-shared-drupal-platform-government"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/rikkert-steenbergen-859a989/"
+      },
       "bio": ""
     },
     {
@@ -6675,8 +6811,13 @@
       "prog": [
         "how-marketers-win-ai-first-search-world-aeo-geo-playbook"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/reena.india",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3207131-1622635235.png?itok=tLwUlHo1",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-3207131-1622635235.png?itok=tLwUlHo1",
+        "linkedin": "https://www.linkedin.com/in/reenatripathi/"
+      },
+      "bio": "<p>An experienced IT professional with 14+ years across developer, team lead, project manager, and delivery manager roles. Currently leads projects in data science, AI, and open source technologies (PHP, Drupal). Based in the United Kingdom, affiliated with Material (a Platinum Drupal Certified Partner).</p>"
     },
     {
       "id": "luzie",
@@ -6773,7 +6914,12 @@
       "prog": [
         "ai-dev-summit"
       ],
-      "links": {},
+      "links": {
+        "img": "https://synetic.nl/img/asset/YXNzZXRzL2pvcmR5LXZsZXVnZWwtc29sdXRpb24tYXJjaGl0ZWN0LmpwZw/jordy-vleugel-solution-architect.jpg?w=140&h=140&fm=webp&q=85&s=708edab674ebd481bf1f29b7dc712d5c",
+        "photo": "https://synetic.nl/img/asset/YXNzZXRzL2pvcmR5LXZsZXVnZWwtc29sdXRpb24tYXJjaGl0ZWN0LmpwZw/jordy-vleugel-solution-architect.jpg?w=140&h=140&fm=webp&q=85&s=708edab674ebd481bf1f29b7dc712d5c",
+        "website": "https://synetic.nl/over-ons/team/jordy",
+        "linkedin": "https://www.linkedin.com/in/jordy-vleugel-bb061627/"
+      },
       "bio": "<p>Synetic. Jordy focuses on scalable Drupal solutions, helping organizations build and evolve complex digital platforms with Drupal at the core.</p>"
     },
     {
@@ -6786,7 +6932,9 @@
       "prog": [
         "government-summit"
       ],
-      "links": {},
+      "links": {
+        "linkedin": "https://www.linkedin.com/in/teunv1/"
+      },
       "bio": "<p>General Director, DICTU.</p>"
     },
     {
@@ -6812,8 +6960,14 @@
       "prog": [
         "joyful-tour-through-cli-now-drupal-core"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/moshe-weitzman",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-23-1400198420.jpg?itok=EprghX1q",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-23-1400198420.jpg?itok=EprghX1q",
+        "website": "http://www.tejasa.com",
+        "twitter": "http://twitter.com/weitzman"
+      },
+      "bio": "<p>A consistent contributor to Drupal core and contrib since November 2001. Maintains the user module and bootstrap code, oversees groups.drupal.org, and created Drush (the Drupal shell). Serves in architecture/web-architect roles, is a member of the Security team, and a Permanent Member of the Drupal Association. Based in Boston, MA.</p>"
     },
     {
       "id": "speaker-john-albin-wilkins",
@@ -6825,8 +6979,13 @@
       "prog": [
         "super-charging-sdc-design-systems-web-components"
       ],
-      "links": {},
-      "bio": ""
+      "links": {
+        "drupal": "https://www.drupal.org/u/john-albin-wilkins",
+        "img": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-11297-1618907897.png?itok=hJ52nOze",
+        "photo": "https://www.drupal.org/files/styles/grid-2-2x-square/public/user-pictures/picture-11297-1618907897.png?itok=hJ52nOze",
+        "website": "http://john.albin.net/"
+      },
+      "bio": "<p>Longtime Drupal contributor (22+ years on drupal.org), maintainer of the Zen theme, Components, Menu Block, Menu Position, and Fences projects; core maintainer of CSS and the Stark theme in Drupal 8-11. Co-author of \"Drupal 7 Module Development.\" Based in Taiwan.</p>"
     },
     {
       "id": "ryan_witcombe",

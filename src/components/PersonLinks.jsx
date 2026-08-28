@@ -17,7 +17,7 @@ import { PiFediverseLogo } from "react-icons/pi";
 
 const PersonLinks = ({ person }) => {
   const regex =
-    /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.]+$/;
+    /^(?:http(s)?:\/\/)[\w.-]+(?:\.[\w.-]+)+[\w\-._~:/?#[\]@!$&'()*+,;=.%]+$/;
   /**
    * Take a link type and return an appropriate Icon.
    * @param {string} type
