@@ -15,6 +15,12 @@ const EVENT_TIMEZONE   = 'Europe/Amsterdam';
 const CANCELLED_PREFIX = '***Cancelled*** ';
 const UNKNOWN_LOCATION = 'Unknown';
 const HTTP_TIMEOUT_S   = 30;
+// The feed occasionally truncates a title (e.g. a field-length bug drops the last
+// character or two). If a local title isn't found verbatim in the feed, it's still
+// treated as a match to a feed title that is an exact prefix of it, as long as the
+// extra length on the local side is no more than this many characters — enough to
+// absorb a truncation typo without turning into a loose substring search.
+const TITLE_MATCH_MAX_EXTRA_CHARS = 20;
 
 function fail(string $message): never
 {
@@ -147,6 +153,44 @@ function strip_cancelled_prefix(string $title): string
 }
 
 /**
+ * Finds the feed title matching a local title: an exact match if one exists, otherwise
+ * the closest feed title that is an exact prefix of the local title (i.e. the local
+ * title is the feed title plus some extra trailing characters, within
+ * TITLE_MATCH_MAX_EXTRA_CHARS) — see the constant's doc comment. $excludeTitles lists
+ * feed titles already claimed by another local session, so one feed item can't match two.
+ *
+ * @param array<string, mixed> $feedByTitle
+ * @param array<string, true> $excludeTitles
+ */
+function find_feed_match(string $localTitle, array $feedByTitle, array $excludeTitles): ?string
+{
+    if (isset($feedByTitle[$localTitle]) && !isset($excludeTitles[$localTitle])) {
+        return $localTitle;
+    }
+
+    $bestMatch = null;
+    $bestExtra = null;
+    foreach ($feedByTitle as $feedTitle => $entry) {
+        if ($feedTitle === '' || isset($excludeTitles[$feedTitle])) {
+            continue;
+        }
+        if (!str_starts_with($localTitle, $feedTitle)) {
+            continue;
+        }
+        $extra = strlen($localTitle) - strlen($feedTitle);
+        if ($extra > TITLE_MATCH_MAX_EXTRA_CHARS) {
+            continue;
+        }
+        if ($bestExtra === null || $extra < $bestExtra) {
+            $bestExtra = $extra;
+            $bestMatch = $feedTitle;
+        }
+    }
+
+    return $bestMatch;
+}
+
+/**
  * PHP's JSON_PRETTY_PRINT hardcodes 4-space indentation; the data file uses 2-space
  * (matching the project's JS tooling). Halving each line's leading whitespace keeps
  * future diffs limited to the actual data changes instead of reformatting the whole file.
@@ -189,17 +233,20 @@ foreach ($localData->schedule as $session) {
 
 $updates = [];
 $removals = [];
+$matchedFeedTitles = [];
 foreach ($localData->schedule as $index => $session) {
     $title = (string) $session->title;
     if (str_starts_with($title, CANCELLED_PREFIX)) {
         continue; // Already cancelled: leave untouched on every subsequent run.
     }
-    if (!isset($feedByTitle[$title])) {
+    $feedTitleKey = find_feed_match($title, $feedByTitle, $matchedFeedTitles);
+    if ($feedTitleKey === null) {
         $removals[] = $index;
         continue;
     }
+    $matchedFeedTitles[$feedTitleKey] = true;
 
-    $feedEntry = $feedByTitle[$title];
+    $feedEntry = $feedByTitle[$feedTitleKey];
     $localStart = new DateTimeImmutable((string) $session->datetime);
     $localMins = (int) $session->mins;
     if ($localStart->getTimestamp() !== $feedEntry['start']->getTimestamp() || $localMins !== $feedEntry['mins']) {
@@ -212,6 +259,9 @@ foreach ($localData->schedule as $index => $session) {
 
 $additions = [];
 foreach ($feedByTitle as $title => $entry) {
+    if (isset($matchedFeedTitles[$title])) {
+        continue; // Already matched (exactly or via the truncation-tolerant fallback) above.
+    }
     if (!isset($localTitlesStripped[$title])) {
         $additions[] = $entry;
     }

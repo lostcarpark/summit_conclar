@@ -2,7 +2,10 @@
 
 ## Master the Future of the Web
 
-Whether you're looking to master new tools or forge partnerships with the ecosystem’s leading minds, DrupalCon Rotterdam 2026 offers a more focused and impactful experience. This year, we’re introducing a refreshed, streamlined format designed to maximize your time and investment.
+Whether you're looking to master new tools or forge partnerships with the
+ecosystem’s leading minds, DrupalCon Rotterdam 2026 offers a more focused and
+impactful experience. This year, we’re introducing a refreshed, streamlined
+format designed to maximize your time and investment.
 
 - **Monday**: Specialized Summit Day for deep-dives (add-on ticket required)
 - **Tuesday & Wednesday**: High-energy keynotes and expert-led sessions.
@@ -15,9 +18,12 @@ connect to solve the web's toughest challenges.
 
 ## Note about programme data
 
-This programme schedule is fetched from the [official
-schedule](https://events.drupal.org/rotterdam2026/schedule). As this is a manual
-process, schedule changes may not be captured. Please use with caution!
+This programme schedule is taken from the [official
+schedule](https://events.drupal.org/rotterdam2026/schedule) with assistance of
+AI tools. While every effort has been made to ensure it is correct, mistakes are
+possible. Updates are handled by an automated script, but be aware that there
+will be a delay in updates appearing on the guide due to the update script
+schedule. Please use with caution!
 
 
 ## About ConClár

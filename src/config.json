@@ -49,28 +49,37 @@
     "ALL_LABEL": "All @venue",
     "UNGROUPED_LABEL": "Other",
     "MAPPING": [
-      { "NAME": "Postillion Hotel", "LOCATIONS": [
-        "Blue Room",
-        "Breakfast Area - 1st Floor",
-        "Contribution Room",
-        "Diamond I&II",
-        "Exhibition Hall",
-        "Goudriaan Room I&II",
-        "J.F. Staal Room",
-        "Leeuwen Room I&II",
-        "Mees Room I",
-        "Mees Room II",
-        "OASE",
-        "Penn Room I&II",
-        "Postillion Hotel & Convention Centre WTC Rotterdam",
-        "Rotterdam Room I",
-        "Rotterdam Room II",
-        "Rotterdam Room I&II",
-        "Tokyo Room",
-        "Van der Veeken Room",
-        "Van Oldenbarnevelt Room",
-        "Van Walsum Room"
-      ]}
+      {
+        "NAME": "Postillion Hotel",
+        "LOCATIONS": [
+          "Blue Room",
+          "Breakfast Area - 1st Floor",
+          "Contribution Room",
+          "Diamond I&II",
+          "Exhibition Hall",
+          "Goudriaan Room I&II",
+          "J.F. Staal Room",
+          "Leeuwen Room I&II",
+          "Mees Room I",
+          "Mees Room II",
+          "Penn Room I&II",
+          "Postillion Hotel & Convention Centre WTC Rotterdam",
+          "Rotterdam Room I",
+          "Rotterdam Room II",
+          "Rotterdam Room I&II",
+          "Tokyo Room",
+          "Van der Veeken Room",
+          "Van Oldenbarnevelt Room",
+          "Van Walsum Room"
+        ]
+      },
+      {
+        "NAME": "Other",
+        "LOCATIONS": [
+          "OASE",
+          "SS Rotterdam"
+        ]
+      }
     ]
   },
   "APPLICATION": {
@@ -120,10 +129,9 @@
     "SEARCHABLE": false,
     "HIDE": false,
     "SEPARATE": [
-      { "PREFIX": "Division", "PLACEHOLDER": "Select division", "SEARCHABLE": false, "HIDE": true },
-      { "PREFIX": "Type", "PLACEHOLDER": "Select type", "SEARCHABLE": false, "HIDE": false },
       { "PREFIX": "Tag", "PLACEHOLDER": "Select tag", "SEARCHABLE": false, "HIDE": false },
-      { "PREFIX": "Track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false }
+      { "PREFIX": "Track", "PLACEHOLDER": "Select track", "SEARCHABLE": false, "HIDE": false },
+      { "PREFIX": "Experience level", "PLACEHOLDER": "Experience level", "SEARCHABLE": false, "HIDE": false }
     ],
     "WEIGHTS": [
       { "VALUE": "sessioon_requires_signup", "WEIGHT": -1 }
@@ -309,7 +317,7 @@
     }
   },
   "FOOTER": {
-    "SITE_NOTE_MARKDOWN": "Please be aware this schedule may not include latest changes.",
+    "SITE_NOTE_MARKDOWN": "Please be aware this guide is generated from the official DrupalCon schedule, but updates may take some time to appear. Use caution.",
     "COPYRIGHT_MARKDOWN": "Created by [James Shields](https://drupal.org/u/lostcarpark)",
     "CONCLAR_NOTE_MARKDOWN": "Guide powered by [ConClár](https://github.com/lostcarpark/conclar)"
   },
