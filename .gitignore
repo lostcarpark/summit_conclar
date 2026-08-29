@@ -25,6 +25,7 @@ public/drupalcon_rotterdam.[0-9]*.json
 .env.development.local
 .env.test.local
 .env.production.local
+.vscode
 
 npm-debug.log*
 yarn-debug.log*

@@ -1,0 +1,1098 @@
+{
+    "schemaVersion": 2,
+    "info": {
+        "published": "2026-08-29T17:44:03+00:00"
+    },
+    "schedule": [
+        {
+            "id": "87e282f8-6728-49a4-b1f0-da14b4f414b4",
+            "title": "Opening Keynote: The Next Decade of Open Source CMS",
+            "tags": [
+                {
+                    "value": "off-the-drupal-island-5",
+                    "category": "Track",
+                    "label": "Off the \"Drupal Island\""
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "open-source-28",
+                    "category": "Tag",
+                    "label": "Open Source"
+                },
+                {
+                    "value": "community-29",
+                    "category": "Tag",
+                    "label": "Community"
+                }
+            ],
+            "datetime": "2027-08-13T09:00:00-04:00",
+            "mins": "60",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "9aba6b63-f49d-4e0e-97ca-9e54fc60ce4a"
+                }
+            ],
+            "desc": "<p>Open source CMS projects are competing with headless SaaS platforms, AI-generated sites, and no-code builders. In this opening keynote, Grace looks at what Drupal has going for it that those platforms don't, and where the community needs to invest next to stay relevant for the next ten years.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "5ae60491-e5f2-4731-91b5-234223a0b959",
+            "title": "Recipes 101: Composable Site Building in Drupal 11",
+            "tags": [
+                {
+                    "value": "site-building-17",
+                    "category": "Track",
+                    "label": "Site-Building"
+                },
+                {
+                    "value": "beginner-4",
+                    "category": "Experience level",
+                    "label": "Beginner"
+                },
+                {
+                    "value": "recipes-64",
+                    "category": "Tag",
+                    "label": "Recipes"
+                },
+                {
+                    "value": "beginner-friendly-30",
+                    "category": "Tag",
+                    "label": "Beginner Friendly"
+                }
+            ],
+            "datetime": "2027-08-13T10:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "b56b2bd0-d8cb-4e06-af6c-b3c7632c2454"
+                }
+            ],
+            "desc": "<p>Recipes let you package configuration, content, and even module dependencies into a reusable, applyable unit. Maria walks through writing your first recipe, applying it to an existing site, and the patterns that make recipes easy to maintain as your site evolves.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "af9f67f4-7edb-4836-baaf-9604e68ce2aa",
+            "title": "Zero to AI: Building Smart Content Workflows with the AI Module",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "ai-31",
+                    "category": "Tag",
+                    "label": "AI"
+                },
+                {
+                    "value": "automation-32",
+                    "category": "Tag",
+                    "label": "Automation"
+                }
+            ],
+            "datetime": "2027-08-13T10:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "04f185cc-305b-42a3-a7ee-a1632dd46517"
+                }
+            ],
+            "desc": "<p>Kwame demonstrates practical uses of the AI module beyond a chat widget: auto-tagging content, drafting alt text, and summarizing long-form articles for listing pages. He covers provider configuration, prompt design, and where human review still belongs in the loop.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "30661405-8c93-415f-b6bf-b9cc56942aa8",
+            "title": "Designing for Everyone: A Live Accessibility Audit",
+            "tags": [
+                {
+                    "value": "theming-design-usability-13",
+                    "category": "Track",
+                    "label": "Theming, Design, & Usability"
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "accessibility-33",
+                    "category": "Tag",
+                    "label": "Accessibility"
+                },
+                {
+                    "value": "wcag-34",
+                    "category": "Tag",
+                    "label": "WCAG"
+                },
+                {
+                    "value": "live-demo-65",
+                    "category": "Tag",
+                    "label": "Live Demo"
+                }
+            ],
+            "datetime": "2027-08-13T10:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "f8cc09df-b799-4a92-945c-6dbc8412ffdb"
+                }
+            ],
+            "desc": "<p>Fatima runs a live accessibility audit against a real Drupal theme using a screen reader, keyboard-only navigation, and automated tooling, fixing issues as she finds them. Expect real bugs, real fixes, and a checklist you can take home.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "eb745bc3-24bb-4b06-bd93-324ed1cc8af8",
+            "title": "Composer for Complete Beginners",
+            "tags": [
+                {
+                    "value": "new-to-drupal-9",
+                    "category": "Track",
+                    "label": "New to Drupal"
+                },
+                {
+                    "value": "beginner-4",
+                    "category": "Experience level",
+                    "label": "Beginner"
+                },
+                {
+                    "value": "composer-35",
+                    "category": "Tag",
+                    "label": "Composer"
+                },
+                {
+                    "value": "beginner-friendly-30",
+                    "category": "Tag",
+                    "label": "Beginner Friendly"
+                }
+            ],
+            "datetime": "2027-08-13T11:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "3cfea862-b074-40e7-9b50-dfa7c3b7c6dc"
+                }
+            ],
+            "desc": "<p>If 'run composer require' still feels like a magic incantation, this talk is for you. Liam covers dependency management, semantic versioning, lock files, and the handful of commands you'll actually use day to day maintaining a Drupal site.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "1f1e0c04-b46e-4841-b2ba-419933bd232e",
+            "title": "Caching Layers Explained: From Page Cache to Redis",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "performance-36",
+                    "category": "Tag",
+                    "label": "Performance"
+                },
+                {
+                    "value": "caching-37",
+                    "category": "Tag",
+                    "label": "Caching"
+                },
+                {
+                    "value": "devops-38",
+                    "category": "Tag",
+                    "label": "DevOps"
+                }
+            ],
+            "datetime": "2027-08-13T11:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "b341cbd6-ca9f-4a96-9de8-89b1c8446017"
+                }
+            ],
+            "desc": "<p>Tomas breaks down internal page cache, dynamic page cache, render caching, and external layers like Redis and a CDN, showing how to diagnose which layer is (or isn't) doing its job with real profiling examples.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "3212d28f-cf2a-4861-b45d-0c79aa91f893",
+            "title": "From Freelancer to Agency: Scaling a Drupal Consultancy",
+            "tags": [
+                {
+                    "value": "project-management-consulting-18",
+                    "category": "Track",
+                    "label": "Project Management & Consulting"
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "career-development-39",
+                    "category": "Tag",
+                    "label": "Career Development"
+                },
+                {
+                    "value": "freelancing-40",
+                    "category": "Tag",
+                    "label": "Freelancing"
+                }
+            ],
+            "datetime": "2027-08-13T11:15:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "3aa14341-b9f2-46ba-802b-b32c8791cd32"
+                },
+                {
+                    "id": "11888469-5c57-4566-b18f-8c9048116142"
+                }
+            ],
+            "desc": "<p>Diego and Ellen share what actually changed as they grew from solo freelancing to a small team: pricing projects, hiring the first developer, and the process overhead that's worth adding versus the overhead that just slows you down.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "3d63ac08-cef8-4d8f-b80c-a0472bd77d11",
+            "title": "Decoupled Drupal with Next.js: Lessons from the Field",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "advanced-16",
+                    "category": "Experience level",
+                    "label": "Advanced"
+                },
+                {
+                    "value": "decoupled-drupal-41",
+                    "category": "Tag",
+                    "label": "Decoupled Drupal"
+                },
+                {
+                    "value": "javascript-42",
+                    "category": "Tag",
+                    "label": "JavaScript"
+                }
+            ],
+            "datetime": "2027-08-13T13:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "076def30-82f1-4e05-9170-80ea5ee22049"
+                }
+            ],
+            "desc": "<p>Ravi walks through a real decoupled project: JSON:API vs GraphQL, preview workflows for editors, and the parts of a decoupled build that take far longer than anyone estimates, including his own past self.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "5c4a4e98-d588-46ce-872f-82954b48cdab",
+            "title": "Your First Contribution: A Guide to Drupal.org",
+            "tags": [
+                {
+                    "value": "new-to-drupal-9",
+                    "category": "Track",
+                    "label": "New to Drupal"
+                },
+                {
+                    "value": "beginner-4",
+                    "category": "Experience level",
+                    "label": "Beginner"
+                },
+                {
+                    "value": "open-source-28",
+                    "category": "Tag",
+                    "label": "Open Source"
+                },
+                {
+                    "value": "drupal-org-43",
+                    "category": "Tag",
+                    "label": "Drupal.org"
+                },
+                {
+                    "value": "beginner-friendly-30",
+                    "category": "Tag",
+                    "label": "Beginner Friendly"
+                },
+                {
+                    "value": "community-29",
+                    "category": "Tag",
+                    "label": "Community"
+                }
+            ],
+            "datetime": "2027-08-13T13:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "fbd191c0-3714-4c7e-aeb7-fc096f749c58"
+                }
+            ],
+            "desc": "<p>Sofia demystifies the Drupal.org issue queue: finding a good first issue, setting up a local sandbox, and the etiquette that makes maintainers happy to review your work. Bring a laptop; there's a live contribution exercise.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "e2fb0d0b-5226-4ebd-88b7-f049f8520e9a",
+            "title": "Design Systems That Survive Contact With Content Editors",
+            "tags": [
+                {
+                    "value": "theming-design-usability-13",
+                    "category": "Track",
+                    "label": "Theming, Design, & Usability"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "design-systems-44",
+                    "category": "Tag",
+                    "label": "Design Systems"
+                },
+                {
+                    "value": "ux-45",
+                    "category": "Tag",
+                    "label": "UX"
+                }
+            ],
+            "datetime": "2027-08-13T13:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "8fdfcd0d-13fa-4480-ad23-37c0cc33248e"
+                }
+            ],
+            "desc": "<p>Aisha covers designing components with realistic content constraints from day one: variable-length text, missing images, and editors who will absolutely paste in a wall of bold red text if you let them.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "c1099800-cf16-4a15-b5a7-1e9e8dc967ba",
+            "title": "Hardening Drupal: A Practical Security Checklist",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "security-46",
+                    "category": "Tag",
+                    "label": "Security"
+                },
+                {
+                    "value": "best-practices-47",
+                    "category": "Tag",
+                    "label": "Best Practices"
+                }
+            ],
+            "datetime": "2027-08-13T14:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "6a4f3789-5eaa-4b0f-b444-083507fac6a9"
+                }
+            ],
+            "desc": "<p>Nathan shares the concrete steps his team takes before launch: permissions audits, trusted host settings, file upload restrictions, and the contributed modules he installs on every single project.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "300eb5e3-d6b7-4f95-9cd3-093e3b6b6254",
+            "title": "ECA Workflows: No-Code Automation for Editors",
+            "tags": [
+                {
+                    "value": "site-building-17",
+                    "category": "Track",
+                    "label": "Site-Building"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "eca-48",
+                    "category": "Tag",
+                    "label": "ECA"
+                },
+                {
+                    "value": "no-code-49",
+                    "category": "Tag",
+                    "label": "No-Code"
+                },
+                {
+                    "value": "automation-32",
+                    "category": "Tag",
+                    "label": "Automation"
+                }
+            ],
+            "datetime": "2027-08-13T14:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "e4266e9c-e10c-4453-949f-faa86c7d4fcf"
+                }
+            ],
+            "desc": "<p>Priya shows how Event-Condition-Action workflows can replace small custom modules: auto-publishing scheduled content, notifying editors of stale pages, and syncing taxonomy across content types, all configured through the UI.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "12b49078-8486-4809-a7ff-d4866cfaa613",
+            "title": "Public Speaking for Introverted Developers",
+            "tags": [
+                {
+                    "value": "off-the-drupal-island-5",
+                    "category": "Track",
+                    "label": "Off the \"Drupal Island\""
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "public-speaking-50",
+                    "category": "Tag",
+                    "label": "Public Speaking"
+                },
+                {
+                    "value": "career-development-39",
+                    "category": "Tag",
+                    "label": "Career Development"
+                },
+                {
+                    "value": "community-29",
+                    "category": "Tag",
+                    "label": "Community"
+                }
+            ],
+            "datetime": "2027-08-13T14:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "030fdcf3-9a3b-42e2-a873-bd7e6058c206"
+                }
+            ],
+            "desc": "<p>James gave his first conference talk terrified and his tenth one calmly. He shares the preparation habits, slide structure, and reframing tricks that made the difference, aimed squarely at people who'd rather be debugging than presenting.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "2cd62d6d-470e-4888-b97a-10d082add4bf",
+            "title": "Migrating a Legacy Site to Drupal 11 Without Losing Your Mind",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "advanced-16",
+                    "category": "Experience level",
+                    "label": "Advanced"
+                },
+                {
+                    "value": "migration-51",
+                    "category": "Tag",
+                    "label": "Migration"
+                },
+                {
+                    "value": "drupal-11-52",
+                    "category": "Tag",
+                    "label": "Drupal 11"
+                }
+            ],
+            "datetime": "2027-08-13T15:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "11888469-5c57-4566-b18f-8c9048116142"
+                }
+            ],
+            "desc": "<p>Ellen walks through a real migration project: auditing legacy content types, writing migrate plugins for messy source data, and the rollback strategy that saved a launch weekend from disaster.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "24c5f167-53c1-4333-9460-ab354349bd41",
+            "title": "Multilingual Sites Made Simple",
+            "tags": [
+                {
+                    "value": "site-building-17",
+                    "category": "Track",
+                    "label": "Site-Building"
+                },
+                {
+                    "value": "beginner-4",
+                    "category": "Experience level",
+                    "label": "Beginner"
+                },
+                {
+                    "value": "multilingual-53",
+                    "category": "Tag",
+                    "label": "Multilingual"
+                }
+            ],
+            "datetime": "2027-08-13T15:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "b56b2bd0-d8cb-4e06-af6c-b3c7632c2454"
+                }
+            ],
+            "desc": "<p>Maria covers the core multilingual modules end to end: language detection, translating fields versus configuration, and keeping translated content in sync as the source content changes.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "821f8b1a-38b4-4a7c-b173-553c0d3959de",
+            "title": "Content Strategy That Outlives the Redesign",
+            "tags": [
+                {
+                    "value": "project-management-consulting-18",
+                    "category": "Track",
+                    "label": "Project Management & Consulting"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "content-strategy-54",
+                    "category": "Tag",
+                    "label": "Content Strategy"
+                }
+            ],
+            "datetime": "2027-08-13T15:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "0fc11af6-8782-4b39-bdb4-a601464ca907"
+                }
+            ],
+            "desc": "<p>Chloe shares a process for content modeling that separates structure from presentation, so the next visual redesign doesn't require re-authoring years of content. Includes a worksheet for auditing your own content types.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "4adf7776-5b75-4f4b-b31e-4c265139dc78",
+            "title": "Layout Builder + Canvas: Choosing the Right Page-Building Tool",
+            "tags": [
+                {
+                    "value": "site-building-17",
+                    "category": "Track",
+                    "label": "Site-Building"
+                },
+                {
+                    "value": "intermediate-11",
+                    "category": "Experience level",
+                    "label": "Intermediate"
+                },
+                {
+                    "value": "layout-builder-55",
+                    "category": "Tag",
+                    "label": "Layout Builder"
+                },
+                {
+                    "value": "canvas-56",
+                    "category": "Tag",
+                    "label": "Canvas"
+                }
+            ],
+            "datetime": "2027-08-13T16:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "3cfea862-b074-40e7-9b50-dfa7c3b7c6dc"
+                }
+            ],
+            "desc": "<p>Liam compares Layout Builder and Canvas side by side on real editorial tasks, covering governance, component reuse, and which tool fits which kind of team, rather than declaring an outright winner.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "2fa25e8c-26f1-45ca-9557-582530785b09",
+            "title": "Sustaining Open Source: Funding the Modules You Depend On",
+            "tags": [
+                {
+                    "value": "off-the-drupal-island-5",
+                    "category": "Track",
+                    "label": "Off the \"Drupal Island\""
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "open-source-28",
+                    "category": "Tag",
+                    "label": "Open Source"
+                },
+                {
+                    "value": "funding-57",
+                    "category": "Tag",
+                    "label": "Funding"
+                },
+                {
+                    "value": "community-29",
+                    "category": "Tag",
+                    "label": "Community"
+                }
+            ],
+            "datetime": "2027-08-13T16:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room B"
+            ],
+            "people": [
+                {
+                    "id": "fbd191c0-3714-4c7e-aeb7-fc096f749c58"
+                }
+            ],
+            "desc": "<p>Sofia looks at how maintainer burnout affects the modules on your own composer.json, and practical ways teams and agencies can put funding, not just thanks, behind the projects they rely on.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "4b060c38-7510-410f-bb7f-9b334d81c1fd",
+            "title": "Testing Drupal: PHPUnit, Cypress, and Everything Between",
+            "tags": [
+                {
+                    "value": "development-performance-15",
+                    "category": "Track",
+                    "label": "Development & Performance"
+                },
+                {
+                    "value": "advanced-16",
+                    "category": "Experience level",
+                    "label": "Advanced"
+                },
+                {
+                    "value": "testing-58",
+                    "category": "Tag",
+                    "label": "Testing"
+                },
+                {
+                    "value": "quality-assurance-59",
+                    "category": "Tag",
+                    "label": "Quality Assurance"
+                }
+            ],
+            "datetime": "2027-08-13T16:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room C"
+            ],
+            "people": [
+                {
+                    "id": "3aa14341-b9f2-46ba-802b-b32c8791cd32"
+                }
+            ],
+            "desc": "<p>Diego covers what actually belongs in unit tests, kernel tests, and end-to-end Cypress tests on a Drupal project, and how to keep a suite fast enough that developers actually run it before pushing.</p>\n",
+            "links": {}
+        },
+        {
+            "id": "688dc348-9684-4700-be28-1cbaeb16b726",
+            "title": "Closing Panel: Ask Us Anything",
+            "tags": [
+                {
+                    "value": "off-the-drupal-island-5",
+                    "category": "Track",
+                    "label": "Off the \"Drupal Island\""
+                },
+                {
+                    "value": "all-attendees-7",
+                    "category": "Experience level",
+                    "label": "All Attendees"
+                },
+                {
+                    "value": "panel-discussion-60",
+                    "category": "Tag",
+                    "label": "Panel Discussion"
+                },
+                {
+                    "value": "community-29",
+                    "category": "Tag",
+                    "label": "Community"
+                }
+            ],
+            "datetime": "2027-08-13T17:00:00-04:00",
+            "mins": "45",
+            "loc": [
+                "Room A"
+            ],
+            "people": [
+                {
+                    "id": "030fdcf3-9a3b-42e2-a873-bd7e6058c206"
+                },
+                {
+                    "id": "f8cc09df-b799-4a92-945c-6dbc8412ffdb"
+                },
+                {
+                    "id": "6a4f3789-5eaa-4b0f-b444-083507fac6a9"
+                }
+            ],
+            "desc": "<p>We close the day with an open floor: bring your toughest Drupal questions for a panel spanning security, accessibility, and public speaking.</p>\n",
+            "links": {}
+        }
+    ],
+    "people": [
+        {
+            "id": "9aba6b63-f49d-4e0e-97ca-9e54fc60ce4a",
+            "name": [
+                "Grace Kim"
+            ],
+            "sortname": "Kim, Grace",
+            "tags": [],
+            "prog": [
+                "87e282f8-6728-49a4-b1f0-da14b4f414b4"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/grace-kim.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/grace-kim.png",
+                "drupal": "https://www.drupal.org/u/gracekim",
+                "linkedin": "https://www.linkedin.com/in/grace-kim-pm",
+                "bsky": "https://bsky.app/profile/gracekim.bsky.social",
+                "website": "https://www.harborlightagency.example"
+            },
+            "bio": "<p>Grace is a product manager at Harborlight Agency and a longtime DrupalCamp organizer. She thinks about open source sustainability more than is probably healthy.</p>\n"
+        },
+        {
+            "id": "b56b2bd0-d8cb-4e06-af6c-b3c7632c2454",
+            "name": [
+                "Maria Chen"
+            ],
+            "sortname": "Chen, Maria",
+            "tags": [],
+            "prog": [
+                "5ae60491-e5f2-4731-91b5-234223a0b959",
+                "24c5f167-53c1-4333-9460-ab354349bd41"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/maria-chen.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/maria-chen.png",
+                "drupal": "https://www.drupal.org/u/mariachen",
+                "linkedin": "https://www.linkedin.com/in/maria-chen-drupal",
+                "website": "https://www.brightgrove.example"
+            },
+            "bio": "<p>Maria is a lead developer at BrightGrove Digital, where she builds composable, recipe-driven Drupal sites for higher-education clients. She has been building on Drupal since version 7 and loves helping new contributors land their first patch.</p>\n"
+        },
+        {
+            "id": "04f185cc-305b-42a3-a7ee-a1632dd46517",
+            "name": [
+                "Kwame Mensah"
+            ],
+            "sortname": "Mensah, Kwame",
+            "tags": [],
+            "prog": [
+                "af9f67f4-7edb-4836-baaf-9604e68ce2aa"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/kwame-mensah.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/kwame-mensah.png",
+                "linkedin": "https://www.linkedin.com/in/kwame-mensah-ai",
+                "bsky": "https://bsky.app/profile/kmensah.bsky.social",
+                "twitter": "https://x.com/kmensah_ai",
+                "website": "https://www.dataforgelabs.example"
+            },
+            "bio": "<p>Kwame is an AI/ML engineer at DataForge Labs, currently spending most of his time wiring content workflows up to the Drupal AI module and seeing what breaks.</p>\n"
+        },
+        {
+            "id": "f8cc09df-b799-4a92-945c-6dbc8412ffdb",
+            "name": [
+                "Fatima Al-Rashid"
+            ],
+            "sortname": "Al-Rashid, Fatima",
+            "tags": [],
+            "prog": [
+                "30661405-8c93-415f-b6bf-b9cc56942aa8",
+                "688dc348-9684-4700-be28-1cbaeb16b726"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/fatima-al-rashid.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/fatima-al-rashid.png",
+                "linkedin": "https://www.linkedin.com/in/fatima-al-rashid",
+                "bsky": "https://bsky.app/profile/falrashid.bsky.social",
+                "website": "https://www.inclusivewebco.example"
+            },
+            "bio": "<p>Fatima is an accessibility consultant at Inclusive Web Co. She audits Drupal themes and components against WCAG 2.2 and trains editorial teams to write accessible content.</p>\n"
+        },
+        {
+            "id": "3cfea862-b074-40e7-9b50-dfa7c3b7c6dc",
+            "name": [
+                "Liam O'Sullivan"
+            ],
+            "sortname": "O'Sullivan, Liam",
+            "tags": [],
+            "prog": [
+                "eb745bc3-24bb-4b06-bd93-324ed1cc8af8",
+                "4adf7776-5b75-4f4b-b31e-4c265139dc78"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/liam-o-sullivan.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/liam-o-sullivan.png",
+                "drupal": "https://www.drupal.org/u/liamosullivan",
+                "linkedin": "https://www.linkedin.com/in/liam-osullivan",
+                "twitter": "https://x.com/losullivan_dev"
+            },
+            "bio": "<p>Liam trains new Drupal developers at the Open Source Academy. He wrote the \"Composer for Humans\" workshop that most of this room has probably taken.</p>\n"
+        },
+        {
+            "id": "b341cbd6-ca9f-4a96-9de8-89b1c8446017",
+            "name": [
+                "Tomas Novak"
+            ],
+            "sortname": "Novak, Tomas",
+            "tags": [],
+            "prog": [
+                "1f1e0c04-b46e-4841-b2ba-419933bd232e"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/tomas-novak.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/tomas-novak.png",
+                "mastodon": "https://mastodon.social/@tnovak",
+                "twitter": "https://x.com/tnovak"
+            },
+            "bio": "<p>Tomas is a DevOps engineer at CloudAnchor, responsible for keeping a fleet of Drupal sites fast and boring. He is mildly obsessed with cache hit ratios.</p>\n"
+        },
+        {
+            "id": "3aa14341-b9f2-46ba-802b-b32c8791cd32",
+            "name": [
+                "Diego Fernandez"
+            ],
+            "sortname": "Fernandez, Diego",
+            "tags": [],
+            "prog": [
+                "3212d28f-cf2a-4861-b45d-0c79aa91f893",
+                "4b060c38-7510-410f-bb7f-9b334d81c1fd"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/diego-fernandez.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/diego-fernandez.png",
+                "drupal": "https://www.drupal.org/u/dfernandez",
+                "twitter": "https://x.com/fernandezandco",
+                "website": "https://www.fernandezandco.example"
+            },
+            "bio": "<p>Diego runs Fernandez &amp; Co, a two-person Drupal shop, and writes and speaks regularly about growing a freelance practice into a small agency without losing your evenings.</p>\n"
+        },
+        {
+            "id": "11888469-5c57-4566-b18f-8c9048116142",
+            "name": [
+                "Ellen Whitfield"
+            ],
+            "sortname": "Whitfield, Ellen",
+            "tags": [],
+            "prog": [
+                "3212d28f-cf2a-4861-b45d-0c79aa91f893",
+                "2cd62d6d-470e-4888-b97a-10d082add4bf"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/ellen-whitfield.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/ellen-whitfield.png",
+                "drupal": "https://www.drupal.org/u/ewhitfield",
+                "twitter": "https://x.com/ewhitfield_sre"
+            },
+            "bio": "<p>Ellen is a site reliability engineer at Stackline Systems. She has migrated more legacy Drupal 7 sites to modern Drupal than she has had hot dinners.</p>\n"
+        },
+        {
+            "id": "076def30-82f1-4e05-9170-80ea5ee22049",
+            "name": [
+                "Ravi Subramanian"
+            ],
+            "sortname": "Subramanian, Ravi",
+            "tags": [],
+            "prog": [
+                "3d63ac08-cef8-4d8f-b80c-a0472bd77d11"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/ravi-subramanian.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/ravi-subramanian.png",
+                "drupal": "https://www.drupal.org/u/rsubramanian",
+                "linkedin": "https://www.linkedin.com/in/ravi-subramanian-dev",
+                "twitter": "https://x.com/rsubramanian_dev",
+                "website": "https://www.subramanianconsulting.example"
+            },
+            "bio": "<p>Ravi is a full-stack developer running Subramanian Consulting, building decoupled front ends on top of Drupal with Next.js and JSON:API.</p>\n"
+        },
+        {
+            "id": "fbd191c0-3714-4c7e-aeb7-fc096f749c58",
+            "name": [
+                "Sofia Marchetti"
+            ],
+            "sortname": "Marchetti, Sofia",
+            "tags": [],
+            "prog": [
+                "5c4a4e98-d588-46ce-872f-82954b48cdab",
+                "2fa25e8c-26f1-45ca-9557-582530785b09"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/sofia-marchetti.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/sofia-marchetti.png",
+                "linkedin": "https://www.linkedin.com/in/sofia-marchetti",
+                "mastodon": "https://mastodon.social/@smarchetti",
+                "website": "https://www.opennestfoundation.example"
+            },
+            "bio": "<p>Sofia is community manager for the OpenNest Foundation, supporting maintainers of small but critical open source projects, several of which your Drupal site depends on right now.</p>\n"
+        },
+        {
+            "id": "8fdfcd0d-13fa-4480-ad23-37c0cc33248e",
+            "name": [
+                "Aisha Bello"
+            ],
+            "sortname": "Bello, Aisha",
+            "tags": [],
+            "prog": [
+                "e2fb0d0b-5226-4ebd-88b7-f049f8520e9a"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/aisha-bello.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/aisha-bello.png",
+                "linkedin": "https://www.linkedin.com/in/aisha-bello-design",
+                "twitter": "https://x.com/aishabellodesign",
+                "website": "https://www.bellodesignstudio.example"
+            },
+            "bio": "<p>Aisha is a UX designer and founder of Bello Design Studio. She builds design systems that survive contact with real content editors and real deadlines.</p>\n"
+        },
+        {
+            "id": "6a4f3789-5eaa-4b0f-b444-083507fac6a9",
+            "name": [
+                "Nathan Brooks"
+            ],
+            "sortname": "Brooks, Nathan",
+            "tags": [],
+            "prog": [
+                "c1099800-cf16-4a15-b5a7-1e9e8dc967ba",
+                "688dc348-9684-4700-be28-1cbaeb16b726"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/nathan-brooks.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/nathan-brooks.png",
+                "bsky": "https://bsky.app/profile/nbrooks.bsky.social",
+                "mastodon": "https://infosec.exchange/@nbrooks",
+                "twitter": "https://x.com/nbrooks_sec"
+            },
+            "bio": "<p>Nathan is a security engineer at Ironclad Web Security. He has broken into more Drupal sites than he can ethically talk about, and now helps teams lock them down instead.</p>\n"
+        },
+        {
+            "id": "e4266e9c-e10c-4453-949f-faa86c7d4fcf",
+            "name": [
+                "Priya Natarajan"
+            ],
+            "sortname": "Natarajan, Priya",
+            "tags": [],
+            "prog": [
+                "300eb5e3-d6b7-4f95-9cd3-093e3b6b6254"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/priya-natarajan.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/priya-natarajan.png",
+                "drupal": "https://www.drupal.org/u/pnatarajan",
+                "twitter": "https://x.com/pnatarajan",
+                "website": "https://priyanatarajan.example"
+            },
+            "bio": "<p>Priya is a front-end engineer at PixelForge Studio who spends most of her time in Layout Builder, Canvas, and ECA workflows, trying to keep editors out of the Twig templates.</p>\n"
+        },
+        {
+            "id": "030fdcf3-9a3b-42e2-a873-bd7e6058c206",
+            "name": [
+                "James Okafor"
+            ],
+            "sortname": "Okafor, James",
+            "tags": [],
+            "prog": [
+                "12b49078-8486-4809-a7ff-d4866cfaa613",
+                "688dc348-9684-4700-be28-1cbaeb16b726"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/james-okafor.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/james-okafor.png",
+                "linkedin": "https://www.linkedin.com/in/james-okafor",
+                "bsky": "https://bsky.app/profile/jokafor.bsky.social",
+                "mastodon": "https://mastodon.social/@jokafor"
+            },
+            "bio": "<p>James is a solutions architect at Northwind Interactive, specializing in large-scale Drupal migrations. Outside of client work, he mentors first-time conference speakers through his local meetup.</p>\n"
+        },
+        {
+            "id": "0fc11af6-8782-4b39-bdb4-a601464ca907",
+            "name": [
+                "Chloe Bergström"
+            ],
+            "sortname": "Bergström, Chloe",
+            "tags": [],
+            "prog": [
+                "821f8b1a-38b4-4a7c-b173-553c0d3959de"
+            ],
+            "links": {
+                "img": "https://event-platform.ddev.site/sites/default/files/speakers/chloe-bergstr-m.png",
+                "photo": "https://event-platform.ddev.site/sites/default/files/speakers/chloe-bergstr-m.png",
+                "linkedin": "https://www.linkedin.com/in/chloe-bergstrom",
+                "bsky": "https://bsky.app/profile/cbergstrom.bsky.social",
+                "website": "https://www.nordicwebcollective.example"
+            },
+            "bio": "<p>Chloe is a content strategist with the Nordic Web Collective, helping editorial teams write content models that still make sense two redesigns later.</p>\n"
+        }
+    ]
+}

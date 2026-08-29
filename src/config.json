@@ -1,28 +1,28 @@
 {
-  "APP_ID": "DCROTTERDAM",
-  "APP_TITLE": "Unofficial ConClár Programme Guide",
+  "APP_ID": "SUM2027",
+  "APP_TITLE": "Summit Program Guide",
   "DATA_URLS": {
-    "COMBINED": "/drupalcon_rotterdam.json"
+    "COMBINED": "/schedule.json"
   },
   "FETCH_OPTIONS": {
     "cache": "reload",
     "credentials": "omit",
     "headers": {
-      "Origin": "https://dcrotterdam.lostcarpark.com/"
+      "Origin": "https://conclar.event-platform.ddev.site/"
     }
   },
   "FETCH_OPTIONS_FIRST": {
     "credentials": "omit",
     "headers": {
-      "Origin": "https://dcrotterdam.lostcarpark.com/"
+      "Origin": "https://conclar.event-platform.ddev.site/"
     }
   },
   "TIMEZONE": "Europe/Amsterdam",
   "TIMEZONECODE": "CEST",
   "INTERACTIVE": true,
   "HEADER": {
-    "IMG_SRC": "/drupalcon.png",
-    "IMG_ALT_TEXT": "DrupalCon Rotterdam 2026 - 28 September - 1 October",
+    "IMG_SRC": "/Summit-logo.svg",
+    "IMG_ALT_TEXT": "Summit 2027 - 13 - 15 Aug 2027",
     "LINEFEED_AFTER_URL": false
   },
   "NAVIGATION": {
@@ -31,7 +31,7 @@
     "MYSCHEDULE": "My Schedule",
     "INFO": "Information",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "DrupalCon Home", "URL": "https://events.drupal.org/rotterdam2026", "ICON_NAME": "Home" }]
+    "EXTRA": [{ "LABEL": "DrupalCon Home", "URL": "https://event-platform.ddev.site", "ICON_NAME": "Home" }]
   },
   "HELP_TEXT": {
     "WELCOME": "Welcome to ConClár. You can use the checkboxes next to programme items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
