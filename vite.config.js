@@ -65,6 +65,9 @@ function injectDataPreloads() {
 
 // https://vite.dev/config/
 export default defineConfig({
+  // Served from https://lostcarpark.github.io/summit_conclar/ -- see the
+  // README's "Hosting in a subdirectory" section.
+  base: "/summit_conclar/",
   plugins: [react(), validateConfigPlugin(), injectDataPreloads()],
   server: {
     port: 3000,

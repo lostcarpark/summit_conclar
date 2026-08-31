@@ -41,9 +41,9 @@
  */
 :root {
   /* ---- Tier 1: Inputs ---- */
-  --brand-tint: #1795d2;
-  --gray-tint: blue;
-  --info-tint: #2b7fff;
+  --brand-tint: rgb(230, 0, 119);
+  --gray-tint: rgb(229, 245, 250);
+  --info-tint: rgb(0, 0, 0);
   --danger-tint: #ff4c4c;
 
   /* ---- Tier 2: Palette ---- */
