@@ -31,7 +31,7 @@
     "MYSCHEDULE": "My Schedule",
     "INFO": "Information",
     "SETTINGS": "Settings",
-    "EXTRA": [{ "LABEL": "DrupalCon Home", "URL": "https://event-platform.ddev.site", "ICON_NAME": "Home" }]
+    "EXTRA": [{ "LABEL": "ConClár project page", "URL": "https://github.com/lostcarpark/conclar", "ICON_NAME": "Home" }]
   },
   "HELP_TEXT": {
     "WELCOME": "Welcome to ConClár. You can use the checkboxes next to programme items to make a personal schedule. You can view this on the My Schedule page, and share to other devices.",
