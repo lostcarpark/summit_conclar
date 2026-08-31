@@ -2,7 +2,7 @@
   "APP_ID": "SUM2027",
   "APP_TITLE": "Summit Program Guide",
   "DATA_URLS": {
-    "COMBINED": "/schedule.json"
+    "COMBINED": "/summit_conclar/schedule.json"
   },
   "FETCH_OPTIONS": {
     "cache": "reload",
