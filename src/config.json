@@ -317,7 +317,7 @@
     }
   },
   "FOOTER": {
-    "SITE_NOTE_MARKDOWN": "Please be aware this guide is generated from the official DrupalCon schedule, but updates may take some time to appear. Use caution.",
+    "SITE_NOTE_MARKDOWN": "This is a demo of a schedule created from a Drupal CMS Summit site template site. None of the scheduled items are real.",
     "COPYRIGHT_MARKDOWN": "Created by [James Shields](https://drupal.org/u/lostcarpark)",
     "CONCLAR_NOTE_MARKDOWN": "Guide powered by [ConClár](https://github.com/lostcarpark/conclar)"
   },
